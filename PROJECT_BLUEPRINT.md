@@ -1459,3 +1459,103 @@ SSE 逐 token 推送到前端 ChatPanel
 | P2 | **信源自动降级后端化** | `rss-fetcher.ts` 读取 health 数据，对连续失败源自动降 priority | ⬜ 待细化 |
 | P2 | **对话历史持久化** | 每条 news 的讨论历史持久化，跨会话可恢复 | ⬜ 待规划 |
 | P3 | **语义搜索升级** | AI embedding 替代 fuse.js | ⬜ 待规划 |
+
+---
+
+## 三十、Phase 30 — 架构修正：本地生成 + 云端构建（2026-05-27）
+
+### 30.1 问题诊断
+
+**GitHub Actions 首次运行即挂死 7 小时**。日志揭示：
+
+| API | 行为 | 根因 |
+|---|---|---|
+| DeepSeek | 立即失败，fallback 到 Kimi | 美国 runner 到国内 API 连握手都建不了 |
+| Kimi | 每次调用 120 秒超时 × 4 次重试 | 请求发出但响应在跨国链路上丢失 |
+
+**结论**：GitHub Actions（美国 runner）到中国 API（DeepSeek/Kimi）的网络路径被限流/阻断。这不是超时时长能解决的结构性问题。
+
+### 30.2 决策变更
+
+| 维度 | 旧方案 | 新方案 |
+|---|---|---|
+| 数据生成 | GitHub Actions 跑 `npm run update-news` | **本机 Windows 定时任务**跑 `npm run update-news` |
+| 构建部署 | Actions 内 `npm run build` | GitHub Actions **纯构建**，由 push 触发 |
+| 触发链路 | cron → update → build → commit → push | cron(本地) → update → push → Actions(build) |
+| API 网络 | ❌ 美国 runner 连不通国内 API | ✅ 本机直连稳定 |
+| 可靠性 | ❌ 21 天断档 | ✅ 本机控制，随时排查 |
+
+### 30.3 代码变更
+
+**`.github/workflows/update-news.yml` → 纯构建 workflow**：
+- 删除 `update-news` 步骤和 API Key Secrets 引用
+- 触发条件改为 `push`（paths 限制 `public/ src/ index.html`）+ `workflow_dispatch`
+- 添加 `timeout-minutes: 5`
+- 步骤只剩：checkout → setup node → npm ci → npm run build
+
+**`scripts/analyzer/deepseek.ts`**：
+- `REQUEST_TIMEOUT_MS` 从固定 `120_000` 改为读取 `process.env.CI_API_TIMEOUT_MS || 120_000`
+- Actions 上通过环境变量注入 `CI_API_TIMEOUT_MS=60000`
+
+**`scripts/analyzer/kimi.ts`**：同上，支持 `CI_API_TIMEOUT_MS` 环境变量。
+
+**新增 `automation/auto-push.ps1`**：
+- 加载 `.env` 环境变量
+- 执行 `npm run update-news`
+- 检测 `public/` 是否有变更
+- 有变更则 `git add public/ → commit → push`
+- Telegram 通知结果
+- 防御机制：今天已有归档则跳过（`-Force` 可覆盖）
+
+**新增 `automation/setup-schedule.ps1`**：
+- 用 `schtasks` 创建两个每日定时任务：
+  - `GlobalPulse-AM` : 每天 08:00
+  - `GlobalPulse-PM` : 每天 18:00
+
+**`package.json`**：新增 `"auto-push": "powershell -ExecutionPolicy Bypass -File automation/auto-push.ps1"`
+
+### 30.4 部署流程（新）
+
+```
+本机 Windows 任务计划程序
+        ↓ 每天 08:00 / 18:00
+automation/auto-push.ps1
+        ↓
+npm run update-news（本地直连 API，稳定）
+        ↓
+git add public/ → commit → push
+        ↓
+GitHub Actions（push 触发）
+        ↓
+npm run build → dist/
+        ↓
+Vercel（未来接入）自动部署
+```
+
+### 30.5 验证
+
+- **workflow 语法**：`node -c .github/workflows/update-news.yml` — 通过
+- **TypeScript**：`npx tsc -b` — 通过
+- **auto-push.ps1 语法**：PowerShell ISE 无红色错误
+- **待验证**：
+  1. 首次本地运行 `npm run auto-push` 生成新内容并推送到仓库
+  2. push 后 Actions 正确触发构建
+  3. Windows 定时任务实际执行（可手动提前触发验证）
+
+### 30.6 已知风险
+
+| 风险 | 缓解 |
+|---|---|
+| 本机需开机才能定时更新 | 可配休眠唤醒，或偶尔手动运行补档 |
+| 本机网络偶尔不稳定 | 脚本有重试和 Telegram 报错通知 |
+| 多人协作时 push 冲突 | 目前单人项目，暂不处理；后续可加 `git pull --rebase` |
+
+### 30.7 下一步计划（更新后）
+
+| 优先级 | 任务 | 说明 | 状态 |
+|---|---|---|---|
+| P0 | **首次本地 auto-push 验证** | 运行 `npm run auto-push`，确认新内容生成 + 推送 + Actions 构建全链路 | ⬜ 待验证 |
+| P0 | **Windows 定时任务配置** | 运行 `automation/setup-schedule.ps1`，确认任务创建成功 | ⬜ 待配置 |
+| P1 | **Vercel dashboard 上线** | import 仓库，push 触发自动构建部署 | ⬜ 需用户操作 |
+| P2 | **信源自动降级后端化** | `rss-fetcher.ts` 读取 health 数据自动降 priority | ⬜ 待细化 |
+| P2 | **对话历史持久化** | 跨会话恢复讨论历史 | ⬜ 待规划 |
