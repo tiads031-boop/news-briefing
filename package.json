@@ -13,7 +13,8 @@
     "test-glossary": "tsx scripts/check-official-glossary.ts",
     "extract-glossary": "tsx scripts/extract-glossary-candidates.ts",
     "export-data": "tsx scripts/export-static-data.ts",
-    "editorial-review": "tsx scripts/editorial-review.ts"
+    "editorial-review": "tsx scripts/editorial-review.ts",
+    "auto-push": "powershell -ExecutionPolicy Bypass -File automation/auto-push.ps1"
   },
   "dependencies": {
     "fuse.js": "^7.3.0",
