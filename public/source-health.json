@@ -1,445 +1,445 @@
 {
-  "updated": "2026-05-27T01:47:32.901Z",
+  "updated": "2026-05-27T12:39:09.049Z",
   "sources": {
     "TechCrunch": {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
-      "lastCheck": "2026-05-27T01:47:13.524Z",
+      "lastCheck": "2026-05-27T12:39:00.959Z",
       "lastStatus": "ok",
-      "latencyMs": 652,
+      "latencyMs": 1491,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "The Verge": {
       "name": "The Verge",
       "url": "https://www.theverge.com/rss/index.xml",
-      "lastCheck": "2026-05-27T01:47:13.682Z",
+      "lastCheck": "2026-05-27T12:39:00.819Z",
       "lastStatus": "ok",
-      "latencyMs": 793,
+      "latencyMs": 1333,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Wired": {
       "name": "Wired",
       "url": "https://www.wired.com/feed/rss",
-      "lastCheck": "2026-05-27T01:47:13.702Z",
+      "lastCheck": "2026-05-27T12:39:01.111Z",
       "lastStatus": "ok",
-      "latencyMs": 813,
+      "latencyMs": 1625,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Yahoo Finance": {
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/rssindex",
-      "lastCheck": "2026-05-27T01:47:14.282Z",
+      "lastCheck": "2026-05-27T12:39:00.607Z",
       "lastStatus": "ok",
-      "latencyMs": 1390,
+      "latencyMs": 1113,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Engadget": {
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml",
-      "lastCheck": "2026-05-27T01:47:14.293Z",
+      "lastCheck": "2026-05-27T12:39:01.239Z",
       "lastStatus": "ok",
-      "latencyMs": 1404,
+      "latencyMs": 1752,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "NPR Business": {
       "name": "NPR Business",
       "url": "https://feeds.npr.org/1006/rss.xml",
-      "lastCheck": "2026-05-27T01:47:14.351Z",
+      "lastCheck": "2026-05-27T12:39:02.949Z",
       "lastStatus": "ok",
-      "latencyMs": 1457,
+      "latencyMs": 3453,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Bloomberg Technology": {
       "name": "Bloomberg Technology",
       "url": "https://feeds.bloomberg.com/technology/news.rss",
-      "lastCheck": "2026-05-27T01:47:14.571Z",
+      "lastCheck": "2026-05-27T12:39:01.981Z",
       "lastStatus": "ok",
-      "latencyMs": 1680,
+      "latencyMs": 2490,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "CNBC Top News": {
       "name": "CNBC Top News",
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "lastCheck": "2026-05-27T01:47:14.758Z",
+      "lastCheck": "2026-05-27T12:39:02.564Z",
       "lastStatus": "ok",
-      "latencyMs": 1865,
+      "latencyMs": 3071,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Techmeme": {
       "name": "Techmeme",
       "url": "https://www.techmeme.com/feed.xml",
-      "lastCheck": "2026-05-27T01:47:14.878Z",
+      "lastCheck": "2026-05-27T12:39:01.314Z",
       "lastStatus": "ok",
-      "latencyMs": 1986,
+      "latencyMs": 1823,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "BBC World": {
       "name": "BBC World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "lastCheck": "2026-05-27T01:47:14.929Z",
+      "lastCheck": "2026-05-27T12:39:02.716Z",
       "lastStatus": "ok",
-      "latencyMs": 2034,
+      "latencyMs": 3221,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "少数派": {
       "name": "少数派",
       "url": "https://sspai.com/feed",
-      "lastCheck": "2026-05-27T01:47:14.947Z",
+      "lastCheck": "2026-05-27T12:39:00.302Z",
       "lastStatus": "ok",
-      "latencyMs": 2048,
+      "latencyMs": 800,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "IT之家": {
       "name": "IT之家",
       "url": "https://www.ithome.com/rss/",
-      "lastCheck": "2026-05-27T01:47:15.018Z",
+      "lastCheck": "2026-05-27T12:39:01.554Z",
       "lastStatus": "ok",
-      "latencyMs": 2119,
+      "latencyMs": 2050,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "36氪": {
       "name": "36氪",
       "url": "https://36kr.com/feed",
-      "lastCheck": "2026-05-27T01:47:15.062Z",
+      "lastCheck": "2026-05-27T12:39:00.657Z",
       "lastStatus": "ok",
-      "latencyMs": 2165,
+      "latencyMs": 1154,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "BBC Technology": {
       "name": "BBC Technology",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
-      "lastCheck": "2026-05-27T01:47:15.154Z",
+      "lastCheck": "2026-05-27T12:39:02.509Z",
       "lastStatus": "ok",
-      "latencyMs": 2264,
+      "latencyMs": 3020,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 2
     },
     "BBC Business": {
       "name": "BBC Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "lastCheck": "2026-05-27T01:47:15.228Z",
+      "lastCheck": "2026-05-27T12:39:02.793Z",
       "lastStatus": "ok",
-      "latencyMs": 2334,
+      "latencyMs": 3299,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "爱范儿": {
       "name": "爱范儿",
       "url": "https://www.ifanr.com/feed",
-      "lastCheck": "2026-05-27T01:47:15.328Z",
+      "lastCheck": "2026-05-27T12:39:01.100Z",
       "lastStatus": "ok",
-      "latencyMs": 2430,
+      "latencyMs": 1596,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "MarketWatch": {
       "name": "MarketWatch",
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-      "lastCheck": "2026-05-27T01:47:15.825Z",
+      "lastCheck": "2026-05-27T12:39:02.768Z",
       "lastStatus": "ok",
-      "latencyMs": 2932,
+      "latencyMs": 3276,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Hacker News": {
       "name": "Hacker News",
       "url": "https://news.ycombinator.com/rss",
-      "lastCheck": "2026-05-27T01:47:15.838Z",
+      "lastCheck": "2026-05-27T12:39:01.555Z",
       "lastStatus": "ok",
-      "latencyMs": 2947,
+      "latencyMs": 2067,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Solidot": {
       "name": "Solidot",
       "url": "https://www.solidot.org/index.rss",
-      "lastCheck": "2026-05-27T01:47:15.877Z",
+      "lastCheck": "2026-05-27T12:39:00.704Z",
       "lastStatus": "ok",
-      "latencyMs": 2979,
+      "latencyMs": 1202,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Al Jazeera English": {
       "name": "Al Jazeera English",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "lastCheck": "2026-05-27T01:47:15.881Z",
+      "lastCheck": "2026-05-27T12:39:00.637Z",
       "lastStatus": "ok",
-      "latencyMs": 2986,
+      "latencyMs": 1139,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Financial Times — World": {
       "name": "Financial Times — World",
       "url": "https://www.ft.com/world?format=rss",
-      "lastCheck": "2026-05-27T01:47:16.036Z",
+      "lastCheck": "2026-05-27T12:39:00.710Z",
       "lastStatus": "ok",
-      "latencyMs": 3142,
+      "latencyMs": 1214,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Ars Technica": {
       "name": "Ars Technica",
       "url": "https://arstechnica.com/feed/",
-      "lastCheck": "2026-05-27T01:47:16.380Z",
+      "lastCheck": "2026-05-27T12:39:04.047Z",
       "lastStatus": "ok",
-      "latencyMs": 3491,
+      "latencyMs": 4561,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "MIT Technology Review": {
       "name": "MIT Technology Review",
       "url": "https://www.technologyreview.com/feed/",
-      "lastCheck": "2026-05-27T01:47:16.429Z",
+      "lastCheck": "2026-05-27T12:39:01.375Z",
       "lastStatus": "ok",
-      "latencyMs": 3539,
+      "latencyMs": 1888,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Business Insider": {
       "name": "Business Insider",
       "url": "https://www.businessinsider.com/rss",
-      "lastCheck": "2026-05-27T01:47:16.787Z",
+      "lastCheck": "2026-05-27T12:39:03.676Z",
       "lastStatus": "ok",
-      "latencyMs": 3893,
+      "latencyMs": 4183,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "联合早报": {
       "name": "联合早报",
       "url": "https://news.google.com/rss/search?q=when:24h+site:zaobao.com.sg&hl=zh-CN&gl=SG&ceid=SG:zh-Hans",
-      "lastCheck": "2026-05-27T01:47:17.208Z",
+      "lastCheck": "2026-05-27T12:39:02.016Z",
       "lastStatus": "ok",
-      "latencyMs": 4307,
-      "itemCount": 7,
+      "latencyMs": 2510,
+      "itemCount": 6,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Le Monde in English": {
       "name": "Le Monde in English",
       "url": "https://www.lemonde.fr/en/rss/une.xml",
-      "lastCheck": "2026-05-27T01:47:17.654Z",
+      "lastCheck": "2026-05-27T12:39:01.840Z",
       "lastStatus": "ok",
-      "latencyMs": 4755,
+      "latencyMs": 2339,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "New York Times — Technology": {
       "name": "New York Times — Technology",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "lastCheck": "2026-05-27T01:47:17.684Z",
+      "lastCheck": "2026-05-27T12:39:02.388Z",
       "lastStatus": "ok",
-      "latencyMs": 4792,
+      "latencyMs": 2896,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "South China Morning Post — World": {
       "name": "South China Morning Post — World",
       "url": "https://news.google.com/rss/search?q=when:24h+site:scmp.com/news/world&hl=en-US&gl=US&ceid=US:en",
-      "lastCheck": "2026-05-27T01:47:17.713Z",
+      "lastCheck": "2026-05-27T12:39:01.103Z",
       "lastStatus": "ok",
-      "latencyMs": 4816,
+      "latencyMs": 1605,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "South China Morning Post — China": {
       "name": "South China Morning Post — China",
       "url": "https://news.google.com/rss/search?q=when:24h+site:scmp.com/news/china&hl=en-US&gl=US&ceid=US:en",
-      "lastCheck": "2026-05-27T01:47:17.841Z",
+      "lastCheck": "2026-05-27T12:39:01.114Z",
       "lastStatus": "ok",
-      "latencyMs": 4944,
+      "latencyMs": 1614,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Bloomberg Markets": {
       "name": "Bloomberg Markets",
       "url": "https://feeds.bloomberg.com/markets/news.rss",
-      "lastCheck": "2026-05-27T01:47:17.917Z",
+      "lastCheck": "2026-05-27T12:39:02.005Z",
       "lastStatus": "ok",
-      "latencyMs": 5023,
+      "latencyMs": 2511,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "华尔街见闻": {
       "name": "华尔街见闻",
       "url": "https://news.google.com/rss/search?q=when:24h+site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-      "lastCheck": "2026-05-27T01:47:19.286Z",
+      "lastCheck": "2026-05-27T12:39:01.979Z",
       "lastStatus": "ok",
-      "latencyMs": 6386,
+      "latencyMs": 2474,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "机器之心": {
       "name": "机器之心",
       "url": "https://news.google.com/rss/search?q=site:jiqizhixin.com/articles&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-      "lastCheck": "2026-05-27T01:47:19.381Z",
+      "lastCheck": "2026-05-27T12:39:01.829Z",
       "lastStatus": "ok",
-      "latencyMs": 6482,
+      "latencyMs": 2324,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "澎湃新闻": {
       "name": "澎湃新闻",
       "url": "https://news.google.com/rss/search?q=when:24h+site:thepaper.cn&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-      "lastCheck": "2026-05-27T01:47:19.503Z",
+      "lastCheck": "2026-05-27T12:39:01.602Z",
       "lastStatus": "ok",
-      "latencyMs": 6603,
+      "latencyMs": 2097,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "界面新闻": {
       "name": "界面新闻",
       "url": "https://news.google.com/rss/search?q=when:24h+site:jiemian.com/article&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-      "lastCheck": "2026-05-27T01:47:19.509Z",
+      "lastCheck": "2026-05-27T12:39:01.701Z",
       "lastStatus": "ok",
-      "latencyMs": 6609,
+      "latencyMs": 2196,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "New York Times — World": {
       "name": "New York Times — World",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "lastCheck": "2026-05-27T01:47:19.566Z",
+      "lastCheck": "2026-05-27T12:39:02.431Z",
       "lastStatus": "ok",
-      "latencyMs": 6671,
+      "latencyMs": 2934,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Reuters via Google News": {
       "name": "Reuters via Google News",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-      "lastCheck": "2026-05-27T01:47:19.778Z",
+      "lastCheck": "2026-05-27T12:39:01.545Z",
       "lastStatus": "ok",
-      "latencyMs": 6880,
+      "latencyMs": 2044,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "The Guardian World": {
       "name": "The Guardian World",
       "url": "https://www.theguardian.com/world/rss",
-      "lastCheck": "2026-05-27T01:47:19.852Z",
+      "lastCheck": "2026-05-27T12:39:01.649Z",
       "lastStatus": "ok",
-      "latencyMs": 6957,
+      "latencyMs": 2153,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "Axios": {
       "name": "Axios",
       "url": "https://www.axios.com/feeds/feed.rss",
-      "lastCheck": "2026-05-27T01:47:21.786Z",
+      "lastCheck": "2026-05-27T12:39:02.426Z",
       "lastStatus": "ok",
-      "latencyMs": 8889,
+      "latencyMs": 2926,
       "itemCount": 10,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 2
     },
     "Washington Post — World": {
       "name": "Washington Post — World",
       "url": "https://feeds.washingtonpost.com/rss/world",
-      "lastCheck": "2026-05-27T01:47:22.913Z",
+      "lastCheck": "2026-05-27T12:39:09.049Z",
       "lastStatus": "ok",
-      "latencyMs": 10018,
-      "itemCount": 5,
+      "latencyMs": 9551,
+      "itemCount": 6,
       "consecutiveErrors": 0,
-      "totalChecks": 1,
-      "successCount": 1
+      "totalChecks": 3,
+      "successCount": 3
     },
     "IEEE Spectrum": {
       "name": "IEEE Spectrum",
       "url": "https://spectrum.ieee.org/feeds/feed.rss",
-      "lastCheck": "2026-05-27T01:47:32.901Z",
+      "lastCheck": "2026-05-27T12:39:04.562Z",
       "lastStatus": "error",
-      "lastError": "Request timed out after 20000ms",
-      "latencyMs": 20010,
+      "lastError": "Client network socket disconnected before secure TLS connection was established",
+      "latencyMs": 5073,
       "itemCount": 0,
-      "consecutiveErrors": 1,
-      "totalChecks": 1,
+      "consecutiveErrors": 3,
+      "totalChecks": 3,
       "successCount": 0
     }
   }

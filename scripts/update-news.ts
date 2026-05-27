@@ -370,6 +370,9 @@ async function main() {
   const maxStories = Math.min(densityToStoryCap(densityResult.density), MAX_STORIES_CEILING);
   info(`Density: ${densityResult.density} → max ${maxStories} stories | ${densityResult.reasonEn}`);
 
+  // Cooldown after density detection to avoid rate-limiting
+  await new Promise(r => setTimeout(r, 1500));
+
   // 3. Analyze — per-story incremental write
   const stories: StoryOutput[] = [];
   const analyzeClusters = clusters.slice(0, MAX_CLUSTERS);
@@ -408,23 +411,44 @@ async function main() {
   for (let i = 0; i < analyzeClusters.length && (mergedStories.length + stories.length) < maxStories; i++) {
     const cluster = analyzeClusters[i];
     try {
-      let raw: Record<string, unknown>;
+      let raw: Record<string, unknown> | undefined;
 
+      // Build available API list — DeepSeek first (better quality)
+      const apis: Array<{ name: string; fn: () => Promise<Record<string, unknown>> }> = [];
       if (DEEPSEEK_KEY) {
-        try {
-          raw = await analyzeWithDeepSeek(cluster, DEEPSEEK_KEY, recentBriefings, densityResult.density);
-        } catch (e) {
-          warn(`DeepSeek failed for cluster ${i + 1}, trying Kimi fallback`);
-          if (KIMI_KEY) {
-            raw = await analyzeWithKimi(cluster, KIMI_KEY, recentBriefings, densityResult.density);
-          } else {
-            throw e;
+        apis.push({
+          name: 'DeepSeek',
+          fn: () => analyzeWithDeepSeek(cluster, DEEPSEEK_KEY, recentBriefings, densityResult.density),
+        });
+      }
+      if (KIMI_KEY) {
+        apis.push({
+          name: 'Kimi',
+          fn: () => analyzeWithKimi(cluster, KIMI_KEY, recentBriefings, densityResult.density),
+        });
+      }
+
+      if (apis.length === 0) {
+        throw new Error('No API key available');
+      }
+
+      // Cross-API alternating retry: each API gets up to 2 rounds
+      let lastError: unknown;
+      for (let round = 0; round < 2 && !raw; round++) {
+        for (const api of apis) {
+          try {
+            info(`${api.name} analyzing cluster ${i + 1} (round ${round + 1}/2)...`);
+            raw = await api.fn();
+            break;
+          } catch (e) {
+            warn(`${api.name} failed for cluster ${i + 1} (round ${round + 1}): ${(e as Error).message}`);
+            lastError = e;
           }
         }
-      } else if (KIMI_KEY) {
-        raw = await analyzeWithKimi(cluster, KIMI_KEY, recentBriefings, densityResult.density);
-      } else {
-        throw new Error('No API key available');
+      }
+
+      if (!raw) {
+        throw lastError;
       }
 
       const story = normalizeStory(raw, cluster);

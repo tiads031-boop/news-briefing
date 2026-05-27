@@ -7,7 +7,7 @@ import { info, error, warn } from '../utils/logger';
 const API_URL = 'https://api.moonshot.cn/v1/chat/completions';
 const MODEL = 'kimi-k2.6';
 const MAX_RETRIES = 3;
-const REQUEST_TIMEOUT_MS = Number(process.env.CI_API_TIMEOUT_MS) || 120_000;
+const REQUEST_TIMEOUT_MS = Number(process.env.CI_API_TIMEOUT_MS) || 60_000;
 const RETRY_DELAYS_MS = [5_000, 15_000, 45_000];
 
 function isNetworkError(err: unknown): boolean {
