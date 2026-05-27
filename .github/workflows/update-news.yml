@@ -9,6 +9,9 @@ on:
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      CI_API_TIMEOUT_MS: 60000
     steps:
       - name: Checkout
         uses: actions/checkout@v4

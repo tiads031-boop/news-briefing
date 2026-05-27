@@ -7,7 +7,7 @@ import { info, error, warn } from '../utils/logger';
 const API_URL = 'https://api.deepseek.com/chat/completions';
 const MODEL = 'deepseek-v4-pro';
 const MAX_RETRIES = 3;
-const REQUEST_TIMEOUT_MS = 120_000;
+const REQUEST_TIMEOUT_MS = Number(process.env.CI_API_TIMEOUT_MS) || 120_000;
 const RETRY_DELAYS_MS = [5_000, 15_000, 45_000];
 
 function isNetworkError(err: unknown): boolean {
