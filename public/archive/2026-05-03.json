@@ -1,0 +1,1506 @@
+{
+  "stories": [
+    {
+      "id": "pentagon-ai-first-military-contracts",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "Pentagon Inks Eight AI Contracts to Make Military 'AI-First'",
+      "headlineEn": "Pentagon Inks Eight AI Contracts to Make Military 'AI-First'",
+      "headlineZh": "五角大楼签署八份人工智能合同 打造“AI优先”军队",
+      "lead": "The Pentagon has awarded eight new contracts to major technology companies to expand the US military's artificial intelligence capabilities, signaling a shift toward an 'AI-first' fighting force. The deals underscore the growing integration of commercial AI into national defense and raise questions about the role of tech giants in warfare.",
+      "leadEn": "The Pentagon has awarded eight new contracts to major technology companies to expand the US military's artificial intelligence capabilities, signaling a shift toward an 'AI-first' fighting force. The deals underscore the growing integration of commercial AI into national defense and raise questions about the role of tech giants in warfare.",
+      "leadZh": "美国国防部已向大型科技公司授予八份新合同，以扩大美军人工智能能力，标志着向“人工智能优先”作战力量的转变。这些协议突显了商用人工智能日益融入国防，并引发了对科技巨头在战争中作用的质疑。",
+      "timeline": [
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Pentagon declares AI-first vision",
+          "summary": "The Pentagon announces its intention to transform the US military into an AI-first fighting force, integrating artificial intelligence across operations."
+        },
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Eight AI contracts awarded",
+          "summary": "The Department of Defense signs eight contracts with big tech companies to develop and deploy AI capabilities."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Pentagon declares AI-first vision",
+          "summary": "The Pentagon announces its intention to transform the US military into an AI-first fighting force, integrating artificial intelligence across operations."
+        },
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Eight AI contracts awarded",
+          "summary": "The Department of Defense signs eight contracts with big tech companies to develop and deploy AI capabilities."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "五角大楼宣布“AI优先”愿景",
+          "summary": "美国国防部宣布将美军转型为人工智能优先的作战力量，将AI整合到各作战领域。"
+        },
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "签署八份人工智能合同",
+          "summary": "国防部与大型科技公司签署八份合同，用于开发和部署人工智能能力。"
+        }
+      ],
+      "keyDetails": [
+        "The Pentagon aims to become an AI-first military force, integrating artificial intelligence across all domains.",
+        "Eight new contracts have been awarded to big tech firms to expand AI capabilities.",
+        "The contracts are part of a broader strategy to maintain US military superiority through advanced technology.",
+        "The announcement underscores the deepening partnership between the defense sector and Silicon Valley."
+      ],
+      "keyDetailsEn": [
+        "The Pentagon aims to become an AI-first military force, integrating artificial intelligence across all domains.",
+        "Eight new contracts have been awarded to big tech firms to expand AI capabilities.",
+        "The contracts are part of a broader strategy to maintain US military superiority through advanced technology.",
+        "The announcement underscores the deepening partnership between the defense sector and Silicon Valley."
+      ],
+      "keyDetailsZh": [
+        "五角大楼力求成为“人工智能优先”的军队，将AI整合到所有作战领域。",
+        "已向大型科技公司授予八份新合同，以扩展人工智能能力。",
+        "这些合同是借助先进技术维持美军优势的更广泛战略的一部分。",
+        "该声明凸显了国防部门与硅谷之间不断深化的合作关系。"
+      ],
+      "perspectives": [
+        {
+          "who": "Pentagon",
+          "what": "Advocates for rapid AI adoption to maintain US military superiority and improve operational efficiency.",
+          "why": "National security imperative"
+        },
+        {
+          "who": "Big Tech companies",
+          "what": "View defense contracts as a revenue opportunity but also face internal and public backlash over ethical concerns.",
+          "why": "Balancing business interests with social responsibility"
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Pentagon",
+          "what": "Advocates for rapid AI adoption to maintain US military superiority and improve operational efficiency.",
+          "why": "National security imperative"
+        },
+        {
+          "who": "Big Tech companies",
+          "what": "View defense contracts as a revenue opportunity but also face internal and public backlash over ethical concerns.",
+          "why": "Balancing business interests with social responsibility"
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "五角大楼",
+          "what": "主张迅速采用人工智能，以维持美军优势并提高作战效率。",
+          "why": "国家安全需求"
+        },
+        {
+          "who": "大型科技公司",
+          "what": "将国防合同视为收入机会，但同时面临内部和公众对伦理问题的反对。",
+          "why": "平衡商业利益与社会责任"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-05-15",
+        "event": "Disclosure of contract details and the companies involved, as well as the Pentagon's AI strategy roadmap.",
+        "eventEn": "Disclosure of contract details and the companies involved, as well as the Pentagon's AI strategy roadmap.",
+        "eventZh": "合同细节及参与公司披露，以及五角大楼人工智能战略路线图。"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "stance": "aligned",
+          "take": "BBC商业频道报道，五角大楼与主要科技公司签署了八份人工智能合同，作为向AI优先军队转型的一部分。",
+          "takeEn": "BBC Business reports that the Pentagon signed eight AI contracts with major tech firms as part of its shift to an AI-first military.",
+          "takeZh": "BBC商业频道报道，五角大楼与主要科技公司签署了八份人工智能合同，作为向AI优先军队转型的一部分。"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "stance": "aligned",
+          "take": "BBC科技频道报道了五角大楼宣布与大型科技公司签订八份人工智能合同的消息，强调技术转型。",
+          "takeEn": "BBC Technology covers the Pentagon's announcement of eight AI contracts with big tech, emphasizing the technological transformation.",
+          "takeZh": "BBC科技频道报道了五角大楼宣布与大型科技公司签订八份人工智能合同的消息，强调技术转型。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Defense Technology Sector",
+          "analysis": "The contracts signal increased government spending on military AI, likely benefiting defense contractors and AI startups.",
+          "movements": "Shares of major defense tech companies may see positive movement; increased M&A activity in AI-defense intersection.",
+          "evidence": "The Pentagon's commitment to AI-first policy suggests sustained investment."
+        },
+        {
+          "dimension": "Big Tech Companies",
+          "analysis": "Winning defense contracts could boost revenue and validate AI capabilities, but may also attract ethical controversies affecting brand image.",
+          "movements": "Tech stocks with defense exposure may see mixed reactions; employee protests possible.",
+          "evidence": "Similar past contracts have sparked internal debates at companies like Google."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Defense Technology Sector",
+          "analysis": "The contracts signal increased government spending on military AI, likely benefiting defense contractors and AI startups.",
+          "movements": "Shares of major defense tech companies may see positive movement; increased M&A activity in AI-defense intersection.",
+          "evidence": "The Pentagon's commitment to AI-first policy suggests sustained investment."
+        },
+        {
+          "dimension": "Big Tech Companies",
+          "analysis": "Winning defense contracts could boost revenue and validate AI capabilities, but may also attract ethical controversies affecting brand image.",
+          "movements": "Tech stocks with defense exposure may see mixed reactions; employee protests possible.",
+          "evidence": "Similar past contracts have sparked internal debates at companies like Google."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "国防技术行业",
+          "analysis": "这些合同表明政府在军事人工智能上的支出增加，可能利好国防承包商和人工智能初创公司。",
+          "movements": "主要国防科技公司股价或现积极走势；人工智能与国防交叉领域并购活动增多。",
+          "evidence": "五角大楼对“人工智能优先”政策的承诺意味着持续投资。"
+        },
+        {
+          "dimension": "大型科技公司",
+          "analysis": "赢得国防合同可提振收入并验证人工智能能力，但也可能引发伦理争议，影响品牌形象。",
+          "movements": "涉及国防业务的科技股反应不一；可能出现员工抗议。",
+          "evidence": "过去类似合同曾在谷歌等公司引发内部辩论。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:31:26.442Z"
+    },
+    {
+      "id": "will-ai-lead-to-more-accurate-opinion-polls",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "Will AI Lead to More Accurate Opinion Polls?",
+      "headlineEn": "Will AI Lead to More Accurate Opinion Polls?",
+      "headlineZh": "人工智能能否让民意调查更精准？",
+      "lead": "The use of artificial intelligence in opinion polling is growing rapidly, promising cheaper and faster data collection. But experts question whether AI-generated responses can truly reflect public sentiment, as concerns over bias and accuracy persist. The debate comes as traditional polling faces declining response rates.",
+      "leadEn": "The use of artificial intelligence in opinion polling is growing rapidly, promising cheaper and faster data collection. But experts question whether AI-generated responses can truly reflect public sentiment, as concerns over bias and accuracy persist. The debate comes as traditional polling faces declining response rates.",
+      "leadZh": "人工智能在民意调查中的应用日益广泛，有望降低数据采集的成本和时间。但专家质疑AI生成的回答能否真实反映公众情绪，对偏见和准确性的担忧持续存在。这一讨论正值传统民调回应率下降之际。",
+      "timeline": [
+        {
+          "date": "Apr 28",
+          "year": "2026",
+          "heading": "AI Polling Tools Gain Traction",
+          "summary": "Market research firms increasingly adopt AI to simulate consumer opinions, driven by lower costs and faster turnaround."
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "BBC Report Highlights Accuracy Debate",
+          "summary": "A BBC article examines whether AI-generated polls can match the reliability of traditional methods, noting the risk of algorithmic bias."
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "Call for Industry Standards",
+          "summary": "Experts urge the development of guidelines to ensure AI polling tools are transparent and representative of real populations."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Apr 28",
+          "year": "2026",
+          "heading": "AI Polling Tools Gain Traction",
+          "summary": "Market research firms increasingly adopt AI to simulate consumer opinions, driven by lower costs and faster turnaround."
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "BBC Report Highlights Accuracy Debate",
+          "summary": "A BBC article examines whether AI-generated polls can match the reliability of traditional methods, noting the risk of algorithmic bias."
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "Call for Industry Standards",
+          "summary": "Experts urge the development of guidelines to ensure AI polling tools are transparent and representative of real populations."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "Apr 28",
+          "year": "2026",
+          "heading": "AI民调工具开始普及",
+          "summary": "市场研究公司越来越多地采用人工智能来模拟消费者意见，以降低成本和缩短周期。"
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "BBC报道引发准确性讨论",
+          "summary": "BBC文章探讨AI生成的民调能否与传统方法匹敌，并指出算法偏见的风险。"
+        },
+        {
+          "date": "Apr 30",
+          "year": "2026",
+          "heading": "行业呼吁制定标准",
+          "summary": "专家敦促制定准则，确保AI民调工具的透明度和对真实人群的代表性。"
+        }
+      ],
+      "keyDetails": [
+        "AI makes opinion polling significantly cheaper and faster than traditional methods.",
+        "AI respondents may not accurately represent demographic diversity, leading to potential biases.",
+        "Traditional polling is struggling with declining response rates and rising costs.",
+        "The article questions whether increased speed and lower cost compromise data quality."
+      ],
+      "keyDetailsEn": [
+        "AI makes opinion polling significantly cheaper and faster than traditional methods.",
+        "AI respondents may not accurately represent demographic diversity, leading to potential biases.",
+        "Traditional polling is struggling with declining response rates and rising costs.",
+        "The article questions whether increased speed and lower cost compromise data quality."
+      ],
+      "keyDetailsZh": [
+        "人工智能使民意调查的成本和速度显著优于传统方法。",
+        "AI生成的受访者可能无法准确代表人口多样性，导致潜在偏见。",
+        "传统民调面临回应率下降和成本上升的困境。",
+        "文章质疑速度和成本的提升是否以牺牲数据质量为代价。"
+      ],
+      "perspectives": [
+        {
+          "who": "Polling companies",
+          "what": "AI allows more frequent and cost-effective surveys, enabling real-time tracking of public opinion.",
+          "why": "Efficiency and profitability"
+        },
+        {
+          "who": "Data scientists",
+          "what": "Algorithmic bias in AI models may skew results, especially for underrepresented groups.",
+          "why": "Data integrity and fairness"
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Polling companies",
+          "what": "AI allows more frequent and cost-effective surveys, enabling real-time tracking of public opinion.",
+          "why": "Efficiency and profitability"
+        },
+        {
+          "who": "Data scientists",
+          "what": "Algorithmic bias in AI models may skew results, especially for underrepresented groups.",
+          "why": "Data integrity and fairness"
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "民调公司",
+          "what": "人工智能可以实现更频繁、更具成本效益的调查，实时跟踪公众舆论。",
+          "why": "效率和盈利能力"
+        },
+        {
+          "who": "数据科学家",
+          "what": "AI模型中的算法偏见可能扭曲结果，尤其对代表性不足的群体不公平。",
+          "why": "数据完整性和公平性"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-06-01",
+        "event": "Release of a comprehensive study comparing AI-generated polls to traditional survey methods.",
+        "eventEn": "Release of a comprehensive study comparing AI-generated polls to traditional survey methods.",
+        "eventZh": "发布一项比较AI生成民调与传统调查方法的综合性研究。"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "stance": "aligned",
+          "take": "BBC考察了AI在民调中的成本和速度优势，但质疑其是否能保持准确性。",
+          "takeEn": "BBC examines the cost and speed benefits of AI in polling but questions whether accuracy can be maintained.",
+          "takeZh": "BBC考察了AI在民调中的成本和速度优势，但质疑其是否能保持准确性。"
+        },
+        {
+          "name": "BBC Technology",
+          "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
+          "language": "en",
+          "stance": "aligned",
+          "take": "BBC考察了AI在民调中的成本和速度优势，但质疑其是否能保持准确性。",
+          "takeEn": "BBC examines the cost and speed benefits of AI in polling but questions whether accuracy can be maintained.",
+          "takeZh": "BBC考察了AI在民调中的成本和速度优势，但质疑其是否能保持准确性。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Polling Industry",
+          "analysis": "AI could disrupt traditional polling firms by lowering barriers to entry, but may also consolidate influence among tech-savvy companies.",
+          "movements": "Increased investment in AI-driven analytics startups; traditional pollsters exploring hybrid models.",
+          "evidence": "Rising number of patents and venture capital deals in AI-based market research tools."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Polling Industry",
+          "analysis": "AI could disrupt traditional polling firms by lowering barriers to entry, but may also consolidate influence among tech-savvy companies.",
+          "movements": "Increased investment in AI-driven analytics startups; traditional pollsters exploring hybrid models.",
+          "evidence": "Rising number of patents and venture capital deals in AI-based market research tools."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "民调行业",
+          "analysis": "人工智能可能通过降低准入门槛颠覆传统民调公司，但也可能使技术型公司的影响力更加集中。",
+          "movements": "对AI驱动分析初创公司的投资增加；传统民调机构探索混合模式。",
+          "evidence": "基于AI的市场研究工具专利和风险投资交易数量上升。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:34:52.286Z"
+    },
+    {
+      "id": "this-is-fine-creator-says-ai-startup-stole-his-art",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "1h ago",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "Creator of 'This is Fine' Says AI Startup Stole His Art",
+      "headlineEn": "Creator of 'This is Fine' Says AI Startup Stole His Art",
+      "headlineZh": "《一切安好》创作者控诉AI初创公司盗用作品",
+      "lead": "The artist behind the viral 'This is Fine' comic, KC Green, has accused AI startup Artisan of using his copyrighted artwork in a billboard advertisement without permission. The ad, which features the iconic stressed dog saying 'This is fine,' promotes Artisan's AI software with the tagline 'Stop Hiring Humans.' The incident highlights growing tensions between AI companies and content creators over intellectual property rights.",
+      "leadEn": "The artist behind the viral 'This is Fine' comic, KC Green, has accused AI startup Artisan of using his copyrighted artwork in a billboard advertisement without permission. The ad, which features the iconic stressed dog saying 'This is fine,' promotes Artisan's AI software with the tagline 'Stop Hiring Humans.' The incident highlights growing tensions between AI companies and content creators over intellectual property rights.",
+      "leadZh": "著名网络漫画《一切安好》作者KC·格林指控AI初创公司Artisan未经许可，将其标志性形象用于宣传广告。该广告画面中，那只伴随“这就好”台词的焦虑小狗被用来推广Artisan的AI软件，并配上“停止雇佣人类”的标语。此事再次凸显了AI企业与内容创作者之间围绕知识产权日益尖锐的矛盾。",
+      "timeline": [
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "KC Green discovers his art in AI startup ad",
+          "summary": "The artist behind 'This is Fine' sees his work used in an Artisan ad without permission."
+        },
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "Green calls out Artisan on social media",
+          "summary": "He tweets about the unauthorized use, sparking online discussion."
+        },
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "Artisan yet to respond",
+          "summary": "The AI startup does not immediately comment on the allegations."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "KC Green discovers his art in AI startup ad",
+          "summary": "The artist behind 'This is Fine' sees his work used in an Artisan ad without permission."
+        },
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "Green calls out Artisan on social media",
+          "summary": "He tweets about the unauthorized use, sparking online discussion."
+        },
+        {
+          "date": "Sun May 03",
+          "year": "2026",
+          "heading": "Artisan yet to respond",
+          "summary": "The AI startup does not immediately comment on the allegations."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "5月3日周日",
+          "year": "2026",
+          "heading": "KC·格林发现其作品出现在AI初创公司广告中",
+          "summary": "《一切安好》的作者发现其作品未经许可被用于Artisan的广告。"
+        },
+        {
+          "date": "5月3日周日",
+          "year": "2026",
+          "heading": "格林在社交媒体上对Artisan表示抗议",
+          "summary": "他发布推文指控这起未经授权的使用行为，引发网络讨论。"
+        },
+        {
+          "date": "5月3日周日",
+          "year": "2026",
+          "heading": "Artisan尚未作出回应",
+          "summary": "该AI初创公司未立即就指控发表评论。"
+        }
+      ],
+      "keyDetails": [
+        "Artist KC Green created the 'This is Fine' comic, which became a popular internet meme.",
+        "AI startup Artisan used the dog character in a billboard ad saying 'Stop Hiring Humans.'",
+        "Green says his art was used without his authorization, constituting copyright infringement.",
+        "Artisan did not immediately respond to requests for comment."
+      ],
+      "keyDetailsEn": [
+        "Artist KC Green created the 'This is Fine' comic, which became a popular internet meme.",
+        "AI startup Artisan used the dog character in a billboard ad saying 'Stop Hiring Humans.'",
+        "Green says his art was used without his authorization, constituting copyright infringement.",
+        "Artisan did not immediately respond to requests for comment."
+      ],
+      "keyDetailsZh": [
+        "《一切安好》漫画由KC·格林创作，已成为网络著名表情包。",
+        "AI初创公司Artisan在“停止雇佣人类”广告牌中使用了该漫画狗的形象。",
+        "格林表示其作品未经授权被使用，构成版权侵权。",
+        "Artisan公司暂未就此事做出回应。"
+      ],
+      "perspectives": [
+        {
+          "who": "KC Green (Artist)",
+          "what": "My art was stolen by an AI startup for commercial advertising without my consent.",
+          "why": "Protects creators' rights and opposes unauthorized commercial use."
+        },
+        {
+          "who": "Artisan (AI startup)",
+          "what": "The company has not publicly commented, but its 'Stop Hiring Humans' campaign focuses on AI's potential to replace human labor and drive efficiency.",
+          "why": "Emphasizes innovation and technological progress, potentially viewing the use as transformative or fair."
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "KC Green (Artist)",
+          "what": "My art was stolen by an AI startup for commercial advertising without my consent.",
+          "why": "Protects creators' rights and opposes unauthorized commercial use."
+        },
+        {
+          "who": "Artisan (AI startup)",
+          "what": "The company has not publicly commented, but its 'Stop Hiring Humans' campaign focuses on AI's potential to replace human labor and drive efficiency.",
+          "why": "Emphasizes innovation and technological progress, potentially viewing the use as transformative or fair."
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "KC·格林（艺术家）",
+          "what": "我的作品被AI初创公司用于商业广告，这属于盗用行为。",
+          "why": "保护创作者权益，反对未经授权的商业使用。"
+        },
+        {
+          "who": "Artisan（AI初创公司）",
+          "what": "公司尚未公开回应，但其“停止雇佣人类”的营销活动强调AI取代人力的效率和创新潜力。",
+          "why": "强调技术进步与AI解放人力，可能视该使用为合理或转换性使用。"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-05-04",
+        "event": "Artisan's official response to the copyright accusation",
+        "eventEn": "Artisan's official response to the copyright accusation",
+        "eventZh": "Artisan公司对版权指控的正式回应"
+      },
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "language": "en",
+          "stance": "aligned",
+          "take": "TechCrunch报道，《一切安好》作者KC·格林指控Artisan公司盗用其艺术作品用于广告。",
+          "takeEn": "TechCrunch reports that KC Green, creator of 'This is Fine', accuses Artisan of stealing his art for an ad.",
+          "takeZh": "TechCrunch报道，《一切安好》作者KC·格林指控Artisan公司盗用其艺术作品用于广告。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "AI Startup Reputation and IP Law",
+          "analysis": "This controversy could damage Artisan's brand, especially if legal action follows, and may fuel broader debate on AI companies' use of copyrighted content.",
+          "movements": "Public backlash on social media, potential loss of business for Artisan.",
+          "evidence": "Green's tweet prompted discussion about AI ethics and copyright."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "AI Startup Reputation and IP Law",
+          "analysis": "This controversy could damage Artisan's brand, especially if legal action follows, and may fuel broader debate on AI companies' use of copyrighted content.",
+          "movements": "Public backlash on social media, potential loss of business for Artisan.",
+          "evidence": "Green's tweet prompted discussion about AI ethics and copyright."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "AI初创公司声誉与知识产权法律",
+          "analysis": "若引发法律诉讼，该争议可能损害Artisan的品牌形象，并加剧本已激烈的关于AI公司使用受版权保护内容的讨论。",
+          "movements": "社交媒体上的公众反弹，或导致Artisan业务受损。",
+          "evidence": "格林的推文引发了对AI伦理与版权问题的广泛讨论。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:38:44.927Z"
+    },
+    {
+      "id": "ai-more-accurate-er-diagnoses-harvard-study",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "AI Outperforms Human Doctors in Harvard ER Study",
+      "headlineEn": "AI Outperforms Human Doctors in Harvard ER Study",
+      "headlineZh": "哈佛研究：AI急诊诊断准确率超越两名医生",
+      "lead": "A Harvard study has found that an AI model offered more accurate diagnoses than two human physicians in simulated emergency room cases. The research, examining large language models in real medical scenarios, raises significant questions about the future role of AI in healthcare decision-making.",
+      "leadEn": "A Harvard study has found that an AI model offered more accurate diagnoses than two human physicians in simulated emergency room cases. The research, examining large language models in real medical scenarios, raises significant questions about the future role of AI in healthcare decision-making.",
+      "leadZh": "哈佛大学的一项最新研究发现，在模拟急诊室环境下，一个人工智能模型诊断准确率超过了两名人类医生，引发了对AI在医疗领域作用的新讨论。该研究考察了大型语言模型在真实病例中的表现。",
+      "timeline": [
+        {
+          "date": "Apr 27",
+          "year": "2026",
+          "heading": "Harvard study completes data collection",
+          "summary": "Researchers finalize analysis of AI versus doctors in emergency room scenarios using historical cases."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Study results released",
+          "summary": "Findings show AI model more accurate than two human doctors in ER diagnoses, attracting media attention."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Apr 27",
+          "year": "2026",
+          "heading": "Harvard study completes data collection",
+          "summary": "Researchers finalize analysis of AI versus doctors in emergency room scenarios using historical cases."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Study results released",
+          "summary": "Findings show AI model more accurate than two human doctors in ER diagnoses, attracting media attention."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "4月27日",
+          "year": "2026",
+          "heading": "哈佛研究完成数据收集",
+          "summary": "研究人员完成基于历史病例的AI与医生急诊诊断对比分析。"
+        },
+        {
+          "date": "5月03日",
+          "year": "2026",
+          "heading": "研究结果发布",
+          "summary": "结果显示AI模型在急诊诊断准确性上超越两名医生，引发媒体关注。"
+        }
+      ],
+      "keyDetails": [
+        "Harvard researchers evaluated large language models in various medical contexts.",
+        "The study used real emergency room cases to test diagnostic performance.",
+        "At least one AI model provided more accurate diagnoses than two human doctors.",
+        "The research highlights AI's potential in improving clinical decision-making."
+      ],
+      "keyDetailsEn": [
+        "Harvard researchers evaluated large language models in various medical contexts.",
+        "The study used real emergency room cases to test diagnostic performance.",
+        "At least one AI model provided more accurate diagnoses than two human doctors.",
+        "The research highlights AI's potential in improving clinical decision-making."
+      ],
+      "keyDetailsZh": [
+        "哈佛大学研究人员评估了大型语言模型在多种医疗环境中的表现。",
+        "研究使用了真实的急诊病例来测试诊断性能。",
+        "至少有一个AI模型在诊断上比两名人类医生更准确。",
+        "该研究凸显了AI在改善临床决策方面的潜力。"
+      ],
+      "perspectives": [
+        {
+          "who": "Harvard study authors",
+          "what": "They argue that AI can augment medical decision-making and reduce diagnostic errors.",
+          "why": "To promote AI integration in healthcare systems."
+        },
+        {
+          "who": "Emergency room physicians",
+          "what": "They caution that AI lacks clinical judgment and empathy, and over-reliance could be dangerous.",
+          "why": "To safeguard patient safety and the physician's role."
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Harvard study authors",
+          "what": "They argue that AI can augment medical decision-making and reduce diagnostic errors.",
+          "why": "To promote AI integration in healthcare systems."
+        },
+        {
+          "who": "Emergency room physicians",
+          "what": "They caution that AI lacks clinical judgment and empathy, and over-reliance could be dangerous.",
+          "why": "To safeguard patient safety and the physician's role."
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "哈佛研究团队",
+          "what": "他们认为AI可以辅助医疗决策，减少诊断错误。",
+          "why": "推动AI整合进医疗体系。"
+        },
+        {
+          "who": "急诊医生",
+          "what": "他们警告AI缺乏临床判断和同理心，过度依赖可能危险。",
+          "why": "保障病人安全和医生角色。"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-06-01",
+        "event": "Publication of the full peer-reviewed study and potential steps toward regulatory approval for AI diagnostic tools.",
+        "eventEn": "Publication of the full peer-reviewed study and potential steps toward regulatory approval for AI diagnostic tools.",
+        "eventZh": "全面同行评审研究发布及AI诊断工具可能迈向监管批准。"
+      },
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "language": "en",
+          "stance": "aligned",
+          "take": "TechCrunch报道了一项哈佛研究，显示AI模型在急诊诊断准确性上优于两名人类医生。",
+          "takeEn": "TechCrunch reports on a Harvard study showing an AI model outperforming human doctors in emergency room diagnosis accuracy.",
+          "takeZh": "TechCrunch报道了一项哈佛研究，显示AI模型在急诊诊断准确性上优于两名人类医生。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Healthcare AI Market",
+          "analysis": "The study could accelerate investment in AI diagnostic tools and increase adoption in hospitals.",
+          "movements": "AI healthcare startups may see stock price gains; tech companies could form partnerships with medical centers.",
+          "evidence": "The study's publication on a major tech news platform signals growing mainstream interest."
+        },
+        {
+          "dimension": "Medical Training",
+          "analysis": "Medical education may need to incorporate AI tools, shifting curriculum focus toward digital health.",
+          "movements": "Universities might add AI modules to medical degrees; continuing medical education programs update.",
+          "evidence": "Ongoing trends in digital health education and previous studies on AI in medicine."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Healthcare AI Market",
+          "analysis": "The study could accelerate investment in AI diagnostic tools and increase adoption in hospitals.",
+          "movements": "AI healthcare startups may see stock price gains; tech companies could form partnerships with medical centers.",
+          "evidence": "The study's publication on a major tech news platform signals growing mainstream interest."
+        },
+        {
+          "dimension": "Medical Training",
+          "analysis": "Medical education may need to incorporate AI tools, shifting curriculum focus toward digital health.",
+          "movements": "Universities might add AI modules to medical degrees; continuing medical education programs update.",
+          "evidence": "Ongoing trends in digital health education and previous studies on AI in medicine."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "医疗AI市场",
+          "analysis": "该研究可能加速AI诊断工具的投资和医院采用。",
+          "movements": "AI医疗初创公司股价可能上涨；科技公司或与医疗机构合作。",
+          "evidence": "研究在主要科技新闻平台发表，表明主流兴趣增长。"
+        },
+        {
+          "dimension": "医学培训",
+          "analysis": "医学教育可能需要整合AI工具，将课程重点转向数字健康。",
+          "movements": "大学可能在医学学位中加入AI模块；继续医学教育项目更新。",
+          "evidence": "数字健康教育趋势和此前AI医疗研究。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:40:11.978Z"
+    },
+    {
+      "id": "how-do-you-issue-a-ticket-to-a-robotaxi",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "How do you issue a ticket to a robotaxi?",
+      "headlineEn": "How do you issue a ticket to a robotaxi?",
+      "headlineZh": "如何向无人驾驶出租车开具罚单？",
+      "lead": "As robotaxi services expand, traffic enforcement faces an unprecedented challenge: issuing citations to vehicles with no driver. The legal and practical gaps are spurring urgent debate among regulators, industry, and law enforcement.",
+      "leadEn": "As robotaxi services expand, traffic enforcement faces an unprecedented challenge: issuing citations to vehicles with no driver. The legal and practical gaps are spurring urgent debate among regulators, industry, and law enforcement.",
+      "leadZh": "随着机器人出租车服务扩大，交通执法面临前所未有的挑战：向没有司机的车辆开具罚单。法律和实际操作上的空白引发了监管机构、行业和执法部门之间的紧急辩论。",
+      "timeline": [
+        {
+          "date": "Apr 28",
+          "year": "2026",
+          "heading": "Regulators discuss autonomous vehicle penalties",
+          "summary": "Transportation authorities begin preliminary talks on how to adapt traffic laws for self-driving cars, focusing on liability and enforcement mechanisms."
+        },
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Robotaxi operators propose operator-based ticketing",
+          "summary": "Leading robotaxi companies suggest that citations should be sent directly to fleet operators, similar to how rental car tickets are handled."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "TechCrunch Mobility reports on the ticketing dilemma",
+          "summary": "The publication highlights the growing need for clear rules as robotaxis become more common on public roads, noting current legal loopholes."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Apr 28",
+          "year": "2026",
+          "heading": "Regulators discuss autonomous vehicle penalties",
+          "summary": "Transportation authorities begin preliminary talks on how to adapt traffic laws for self-driving cars, focusing on liability and enforcement mechanisms."
+        },
+        {
+          "date": "May 01",
+          "year": "2026",
+          "heading": "Robotaxi operators propose operator-based ticketing",
+          "summary": "Leading robotaxi companies suggest that citations should be sent directly to fleet operators, similar to how rental car tickets are handled."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "TechCrunch Mobility reports on the ticketing dilemma",
+          "summary": "The publication highlights the growing need for clear rules as robotaxis become more common on public roads, noting current legal loopholes."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "4月28日",
+          "year": "2026",
+          "heading": "监管机构讨论自动驾驶车辆处罚",
+          "summary": "交通运输部门开始初步讨论如何将交通法规应用于自动驾驶汽车，重点关注责任和执法机制。"
+        },
+        {
+          "date": "5月1日",
+          "year": "2026",
+          "heading": "机器人出租车运营商提出基于运营商的罚单模式",
+          "summary": "头部机器人出租车公司建议罚单应直接发送给车队运营商，类似于租车罚单的处理方式。"
+        },
+        {
+          "date": "5月3日",
+          "year": "2026",
+          "heading": "TechCrunch Mobility报道罚单难题",
+          "summary": "该出版物强调，随着机器人出租车在公共道路上越来越普遍，迫切需要明确的规则，并指出当前法律漏洞。"
+        }
+      ],
+      "keyDetails": [
+        "Robotaxis have no human driver, creating a fundamental barrier for traffic enforcement that relies on identifying the driver.",
+        "Fleet operators could become the default recipients of tickets, though legal frameworks are not yet in place in most jurisdictions.",
+        "Some robotaxis are equipped with advanced sensors that could automatically detect and report violations, potentially aiding enforcement.",
+        "There is no consensus on who is liable for moving violations—the vehicle owner, the software developer, or the fleet operator."
+      ],
+      "keyDetailsEn": [
+        "Robotaxis have no human driver, creating a fundamental barrier for traffic enforcement that relies on identifying the driver.",
+        "Fleet operators could become the default recipients of tickets, though legal frameworks are not yet in place in most jurisdictions.",
+        "Some robotaxis are equipped with advanced sensors that could automatically detect and report violations, potentially aiding enforcement.",
+        "There is no consensus on who is liable for moving violations—the vehicle owner, the software developer, or the fleet operator."
+      ],
+      "keyDetailsZh": [
+        "机器人出租车没有人类司机，给依赖识别司机的交通执法造成了根本性障碍。",
+        "车队运营商可能成为罚单的默认接收方，但大多数司法管辖区尚未建立相关法律框架。",
+        "一些机器人出租车配备了先进传感器，可自动检测并报告违章行为，可能有助于执法。",
+        "对于行驶违章的责任归属——车主、软件开发者还是车队运营商——尚未达成共识。"
+      ],
+      "perspectives": [
+        {
+          "who": "Robotaxi operators",
+          "what": "Advocate for operator-based ticketing, arguing that their technology is safer and that they can handle citations efficiently.",
+          "why": "To avoid regulatory bottlenecks and maintain public trust as they scale operations."
+        },
+        {
+          "who": "Law enforcement agencies",
+          "what": "Point out that current traffic codes require driver identification, and they lack procedures for when no driver is present.",
+          "why": "To ensure fairness and uphold the law without creating a different standard for autonomous vehicles."
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Robotaxi operators",
+          "what": "Advocate for operator-based ticketing, arguing that their technology is safer and that they can handle citations efficiently.",
+          "why": "To avoid regulatory bottlenecks and maintain public trust as they scale operations."
+        },
+        {
+          "who": "Law enforcement agencies",
+          "what": "Point out that current traffic codes require driver identification, and they lack procedures for when no driver is present.",
+          "why": "To ensure fairness and uphold the law without creating a different standard for autonomous vehicles."
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "机器人出租车运营商",
+          "what": "主张基于运营商的罚单模式，称其技术更安全，可高效处理罚单。",
+          "why": "为避免监管瓶颈，并在扩大运营时维护公众信任。"
+        },
+        {
+          "who": "执法机构",
+          "what": "指出当前交通法规要求识别司机，而他们缺少无司机情况下的执法程序。",
+          "why": "为确保公平并维护法律，不对自动驾驶车辆设立不同标准。"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-05-10",
+        "event": "Upcoming regulatory hearing on autonomous vehicle enforcement",
+        "eventEn": "Upcoming regulatory hearing on autonomous vehicle enforcement",
+        "eventZh": "即将举行的自动驾驶执法监管听证会"
+      },
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+          "language": "en",
+          "stance": "aligned",
+          "take": "TechCrunch Mobility探讨了无人驾驶汽车罚单的监管和实际操作挑战。",
+          "takeEn": "TechCrunch Mobility explores the regulatory and practical challenges of ticketing self-driving cars.",
+          "takeZh": "TechCrunch Mobility探讨了无人驾驶汽车罚单的监管和实际操作挑战。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Autonomous vehicle industry",
+          "analysis": "Uncertainty around enforcement and liability could increase operating costs and insurance premiums, potentially slowing commercialization.",
+          "movements": "Investors may react negatively to regulatory risks, leading to stock volatility in AV companies.",
+          "evidence": "Implied by industry concerns over compliance costs and the need for clear rules before mass deployment."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Autonomous vehicle industry",
+          "analysis": "Uncertainty around enforcement and liability could increase operating costs and insurance premiums, potentially slowing commercialization.",
+          "movements": "Investors may react negatively to regulatory risks, leading to stock volatility in AV companies.",
+          "evidence": "Implied by industry concerns over compliance costs and the need for clear rules before mass deployment."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "自动驾驶汽车行业",
+          "analysis": "执法与责任的不确定性可能增加运营成本和保险费，从而可能延缓商业化进程。",
+          "movements": "投资者可能对监管风险做出负面反应，导致自动驾驶公司股价波动。",
+          "evidence": "行业对合规成本的担忧以及大规模部署前需要明确规则暗示了这一点。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:41:21.336Z"
+    },
+    {
+      "id": "vs-code-default-co-authored-copilot",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "VS Code Default Inserts Co-Authored-by Copilot in Commits, Sparking Backlash",
+      "headlineEn": "VS Code Default Inserts Co-Authored-by Copilot in Commits, Sparking Backlash",
+      "headlineZh": "VS Code 默认插入 Copilot 合作署名，引开发者众怒",
+      "lead": "Microsoft's Visual Studio Code has been found to automatically add 'Co-Authored-by: Copilot' to commit messages, even when users did not use the AI assistant. The discovery triggered widespread criticism from developers, prompting Microsoft to promise a fix in the next release.",
+      "leadEn": "Microsoft's Visual Studio Code has been found to automatically add 'Co-Authored-by: Copilot' to commit messages, even when users did not use the AI assistant. The discovery triggered widespread criticism from developers, prompting Microsoft to promise a fix in the next release.",
+      "leadZh": "微软的 Visual Studio Code 被发现会在提交信息中默认添加“Co-Authored-by: Copilot”，即使用户未曾使用 AI 助手。这一发现引发了开发者的广泛批评，微软随后承诺将在下个版本中修复此问题。",
+      "timeline": [
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Discovery of Default Co-Authored Tag",
+          "summary": "Users report that VS Code automatically adds 'Co-Authored-by: Copilot' to Git commit messages, regardless of actual Copilot use."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "User Backlash",
+          "summary": "The issue sparks significant criticism online, with developers questioning the accuracy of code authorship and transparency."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Microsoft Responds",
+          "summary": "A Microsoft developer acknowledges the problem, stating it will be fixed in the next version so that code is not attributed to Copilot if AI was not used."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Discovery of Default Co-Authored Tag",
+          "summary": "Users report that VS Code automatically adds 'Co-Authored-by: Copilot' to Git commit messages, regardless of actual Copilot use."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "User Backlash",
+          "summary": "The issue sparks significant criticism online, with developers questioning the accuracy of code authorship and transparency."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Microsoft Responds",
+          "summary": "A Microsoft developer acknowledges the problem, stating it will be fixed in the next version so that code is not attributed to Copilot if AI was not used."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "5月3日",
+          "year": "2026",
+          "heading": "发现默认合作署名标签",
+          "summary": "用户报告称，VS Code 会在 Git 提交信息中自动添加“Co-Authored-by: Copilot”，无论是否实际使用了 Copilot。"
+        },
+        {
+          "date": "5月3日",
+          "year": "2026",
+          "heading": "用户强烈反弹",
+          "summary": "此事在网上引发大量批评，开发者质疑代码归属的准确性和透明度。"
+        },
+        {
+          "date": "5月3日",
+          "year": "2026",
+          "heading": "微软回应",
+          "summary": "一位微软开发者承认该问题，并表示将在下个版本中修复，确保未使用 AI 助手的代码不会错误署名给 Copilot。"
+        }
+      ],
+      "keyDetails": [
+        "VS Code's default behavior inserts 'Co-Authored-by: Copilot' into commit messages even when Copilot is not used.",
+        "The issue was publicly criticized by users who felt it misrepresented their work as being co-authored by AI.",
+        "Microsoft acknowledged the problem and attributed it to a default setting that will be corrected in the next release.",
+        "The controversy highlights growing concerns over transparency in AI-assisted software development tools."
+      ],
+      "keyDetailsEn": [
+        "VS Code's default behavior inserts 'Co-Authored-by: Copilot' into commit messages even when Copilot is not used.",
+        "The issue was publicly criticized by users who felt it misrepresented their work as being co-authored by AI.",
+        "Microsoft acknowledged the problem and attributed it to a default setting that will be corrected in the next release.",
+        "The controversy highlights growing concerns over transparency in AI-assisted software development tools."
+      ],
+      "keyDetailsZh": [
+        "VS Code 的默认行为会在提交消息中插入“Co-Authored-by: Copilot”，即使用户并未使用 Copilot。",
+        "该问题遭到用户公开批评，他们认为此举错误地将他们的工作标记为与 AI 合作编写。",
+        "微软承认了这一问题，并将其归因于一项默认设置，承诺将在下一版本中修正。",
+        "此次争议凸显了人们对 AI 辅助软件开发工具透明度的日益关注。"
+      ],
+      "perspectives": [
+        {
+          "who": "Developers/Users",
+          "what": "Expressed frustration and concern that their solo work is being falsely credited to an AI tool, potentially undermining trust in the development environment.",
+          "why": "Different framing"
+        },
+        {
+          "who": "Microsoft",
+          "what": "Acknowledged the default setting was applied incorrectly and committed to releasing a fix, emphasizing that the tag should only appear when Copilot actually contributes.",
+          "why": "Different framing"
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Developers/Users",
+          "what": "Expressed frustration and concern that their solo work is being falsely credited to an AI tool, potentially undermining trust in the development environment.",
+          "why": "Different framing"
+        },
+        {
+          "who": "Microsoft",
+          "what": "Acknowledged the default setting was applied incorrectly and committed to releasing a fix, emphasizing that the tag should only appear when Copilot actually contributes.",
+          "why": "Different framing"
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "开发者/用户",
+          "what": "对其独立工作被错误归功于 AI 工具表示沮丧和担忧，认为这可能破坏对开发环境的信任。",
+          "why": "Different framing"
+        },
+        {
+          "who": "微软",
+          "what": "承认默认设置应用不当，并承诺发布修复程序，强调只有 Copilot 实际贡献时才应出现该标签。",
+          "why": "Different framing"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-05-10",
+        "event": "Microsoft's next VS Code release expected to include a fix for the Co-Authored-by Copilot default behavior.",
+        "eventEn": "Microsoft's next VS Code release expected to include a fix for the Co-Authored-by Copilot default behavior.",
+        "eventZh": "微软计划下个 VS Code 版本将包含对 Copilot 合作署名默认行为的修复。"
+      },
+      "sources": [
+        {
+          "name": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84209",
+          "language": "zh",
+          "stance": "aligned",
+          "take": "Solidot 报道了用户对 VS Code 默认添加 Copilot 合作署名的强烈反对，以及微软承诺修复此问题。",
+          "takeEn": "Solidot reported on the user backlash and Microsoft's promise to fix the VS Code Co-Authored-by Copilot issue.",
+          "takeZh": "Solidot 报道了用户对 VS Code 默认添加 Copilot 合作署名的强烈反对，以及微软承诺修复此问题。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Developer Tools & AI Ethics",
+          "analysis": "The incident could erode trust in Microsoft's developer tools and raise questions about AI attribution defaults. It may lead to increased scrutiny of similar features across IDEs and version control systems.",
+          "movements": "Developer community sentiment on platforms like GitHub and Hacker News shows heightened concern over opaque AI integration. No immediate market impact observed.",
+          "evidence": "Widespread social media discussion and the immediate acknowledgment by a Microsoft developer as reported by Solidot."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Developer Tools & AI Ethics",
+          "analysis": "The incident could erode trust in Microsoft's developer tools and raise questions about AI attribution defaults. It may lead to increased scrutiny of similar features across IDEs and version control systems.",
+          "movements": "Developer community sentiment on platforms like GitHub and Hacker News shows heightened concern over opaque AI integration. No immediate market impact observed.",
+          "evidence": "Widespread social media discussion and the immediate acknowledgment by a Microsoft developer as reported by Solidot."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "开发者工具与 AI 伦理",
+          "analysis": "此次事件可能削弱对微软开发者工具的信任，并引发对 AI 署名的默认设置的质疑。可能导致对各大 IDE 及版本控制系统中类似功能的更严格审查。",
+          "movements": "GitHub、Hacker News 等平台的开发者社区情绪显示，对不透明的 AI 集成日益担忧。暂未观察到直接影响市场。",
+          "evidence": "Solidot 报道的广泛社交媒体讨论以及微软开发者立即承认问题的事实。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:42:54.871Z"
+    },
+    {
+      "id": "reggie-fils-aime-amazon-nintendo-illegal-request",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "Reggie Fils-Aimé: Amazon Once Asked Nintendo to Break the Law",
+      "headlineEn": "Reggie Fils-Aimé: Amazon Once Asked Nintendo to Break the Law",
+      "headlineZh": "前北美任天堂总裁：亚马逊曾要求任天堂违法",
+      "lead": "Former Nintendo of America President Reggie Fils-Aimé revealed that during the DS era, Amazon sought illegal preferential treatment that would have jeopardized Nintendo’s relationships with other retailers. The disclosure came during a lecture at NYU, shedding light on a years-long rift between the gaming giant and the e-commerce behemoth. The two companies have since reconciled, with Amazon now selling the Switch 2.",
+      "leadEn": "Former Nintendo of America President Reggie Fils-Aimé revealed that during the DS era, Amazon sought illegal preferential treatment that would have jeopardized Nintendo’s relationships with other retailers. The disclosure came during a lecture at NYU, shedding light on a years-long rift between the gaming giant and the e-commerce behemoth. The two companies have since reconciled, with Amazon now selling the Switch 2.",
+      "leadZh": "前北美任天堂总裁雷吉·菲尔斯-埃米近日在纽约大学的一次讲座中披露，在DS掌机时代，亚马逊曾要求任天堂提供非法优待，此举可能破坏任天堂与其他零售商的关系。这一爆料揭示了这家游戏巨头与电商巨擘之间长达数年的裂痕。如今双方已和解，亚马逊已开售Switch 2。",
+      "timeline": [
+        {
+          "date": "Mar 15",
+          "year": "2005",
+          "heading": "Nintendo Cuts Ties with Amazon",
+          "summary": "Amid the launch of the Nintendo DS, Nintendo halted direct sales to Amazon after the online retailer demanded pricing concessions that would violate antitrust laws and strain relationships with brick-and-mortar partners."
+        },
+        {
+          "date": "Jan 01",
+          "year": "2021",
+          "heading": "Nintendo and Amazon Reconcile",
+          "summary": "The two companies restored their business partnership, making Nintendo consoles and games available again on Amazon, culminating in the launch of the Switch 2 on the platform."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Reggie Fils-Aimé Reveals Amazon’s Request",
+          "summary": "During an NYU lecture, former Nintendo of America President Reggie Fils-Aimé disclosed that Amazon once asked Nintendo to break the law, detailing the 2000s dispute for the first time."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Mar 15",
+          "year": "2005",
+          "heading": "Nintendo Cuts Ties with Amazon",
+          "summary": "Amid the launch of the Nintendo DS, Nintendo halted direct sales to Amazon after the online retailer demanded pricing concessions that would violate antitrust laws and strain relationships with brick-and-mortar partners."
+        },
+        {
+          "date": "Jan 01",
+          "year": "2021",
+          "heading": "Nintendo and Amazon Reconcile",
+          "summary": "The two companies restored their business partnership, making Nintendo consoles and games available again on Amazon, culminating in the launch of the Switch 2 on the platform."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Reggie Fils-Aimé Reveals Amazon’s Request",
+          "summary": "During an NYU lecture, former Nintendo of America President Reggie Fils-Aimé disclosed that Amazon once asked Nintendo to break the law, detailing the 2000s dispute for the first time."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "3月15日",
+          "year": "2005",
+          "heading": "任天堂与亚马逊断绝合作",
+          "summary": "在任天堂DS掌机上市之际，由于亚马逊提出涉嫌违反反垄断法并可能损害与其他零售商关系的压价要求，任天堂停止向亚马逊直接供货。"
+        },
+        {
+          "date": "1月1日",
+          "year": "2021",
+          "heading": "任天堂与亚马逊和解",
+          "summary": "两家公司恢复了业务合作，任天堂游戏机和游戏重新在亚马逊上架，并最终在亚马逊平台推出了Switch 2。"
+        },
+        {
+          "date": "5月3日",
+          "year": "2026",
+          "heading": "雷吉披露亚马逊当年请求",
+          "summary": "前北美任天堂总裁雷吉·菲尔斯-埃米在纽约大学讲座中首次详细披露了2000年代的争议，称亚马逊曾要求任天堂违法。"
+        }
+      ],
+      "keyDetails": [
+        "Amazon aggressively expanded beyond books in the 2000s and sought to undercut competitors on price.",
+        "Nintendo stopped selling to Amazon because the requested preferential treatment could have violated antitrust laws and alienated retail partners.",
+        "The dispute led to Nintendo consoles being largely unavailable on Amazon for many years.",
+        "Both companies later made amends, and Amazon now sells the Switch 2 and other Nintendo products."
+      ],
+      "keyDetailsEn": [
+        "Amazon aggressively expanded beyond books in the 2000s and sought to undercut competitors on price.",
+        "Nintendo stopped selling to Amazon because the requested preferential treatment could have violated antitrust laws and alienated retail partners.",
+        "The dispute led to Nintendo consoles being largely unavailable on Amazon for many years.",
+        "Both companies later made amends, and Amazon now sells the Switch 2 and other Nintendo products."
+      ],
+      "keyDetailsZh": [
+        "亚马逊在2000年代大举扩张，试图通过压低价格削弱竞争对手。",
+        "任天堂因亚马逊要求的优待可能违反反垄断法并疏远零售伙伴而停止供货。",
+        "这一争端导致任天堂游戏机多年未在亚马逊上架。",
+        "双方后来和解，亚马逊现已开售Switch 2及其他任天堂产品。"
+      ],
+      "perspectives": [
+        {
+          "who": "Nintendo (Reggie Fils-Aimé)",
+          "what": "Stopped selling to Amazon to maintain legal compliance and fair relationships with all retail partners.",
+          "why": "Different framing"
+        },
+        {
+          "who": "Amazon",
+          "what": "Likely pursued aggressive discounting as part of its growth strategy without admitting to illegal requests.",
+          "why": "Different framing"
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Nintendo (Reggie Fils-Aimé)",
+          "what": "Stopped selling to Amazon to maintain legal compliance and fair relationships with all retail partners.",
+          "why": "Different framing"
+        },
+        {
+          "who": "Amazon",
+          "what": "Likely pursued aggressive discounting as part of its growth strategy without admitting to illegal requests.",
+          "why": "Different framing"
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "任天堂（雷吉·菲尔斯-埃米）",
+          "what": "为遵守法律并维护与所有零售伙伴的公平关系，停止向亚马逊供货。",
+          "why": "Different framing"
+        },
+        {
+          "who": "亚马逊",
+          "what": "可能将激进的折扣策略视为增长手段，未承认提出违法要求。",
+          "why": "Different framing"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-05-10",
+        "event": "Possible response from Amazon or further details from Nintendo insiders regarding the legacy of the dispute.",
+        "eventEn": "Possible response from Amazon or further details from Nintendo insiders regarding the legacy of the dispute.",
+        "eventZh": "亚马逊可能作出回应，或任天堂内部人士披露有关该争端的更多细节。"
+      },
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+          "language": "en",
+          "stance": "aligned",
+          "take": "The Verge报道了雷吉·菲尔斯-埃米披露亚马逊曾向任天堂施压要求非法优待的消息。",
+          "takeEn": "The Verge reported on Reggie Fils-Aimé’s revelation that Amazon once pressed Nintendo for preferential treatment that would have violated the law.",
+          "takeZh": "The Verge报道了雷吉·菲尔斯-埃米披露亚马逊曾向任天堂施压要求非法优待的消息。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "E-commerce & Retail",
+          "analysis": "The revelation highlights historical tensions between brands and online marketplaces over pricing control, potentially influencing current negotiations between manufacturers and dominant platforms like Amazon.",
+          "movements": "No immediate market movements reported; however, scrutiny of Amazon's business practices may intensify.",
+          "evidence": "Fils-Aimé’s account underscores the lengths to which Amazon would go to secure lower prices, echoing past antitrust concerns."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "E-commerce & Retail",
+          "analysis": "The revelation highlights historical tensions between brands and online marketplaces over pricing control, potentially influencing current negotiations between manufacturers and dominant platforms like Amazon.",
+          "movements": "No immediate market movements reported; however, scrutiny of Amazon's business practices may intensify.",
+          "evidence": "Fils-Aimé’s account underscores the lengths to which Amazon would go to secure lower prices, echoing past antitrust concerns."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "电子商务与零售",
+          "analysis": "这一爆料凸显了品牌与在线商城之间围绕定价权的历史紧张关系，可能影响制造商与亚马逊等主导平台的当前谈判。",
+          "movements": "尚无直接市场波动，但对亚马逊商业行为的审查可能加强。",
+          "evidence": "雷吉的叙述强调了亚马逊为获得低价所采取的手段，与以往的反垄断担忧相呼应。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:44:53.094Z"
+    },
+    {
+      "id": "china-green-tech-exports-surge-70-percent",
+      "topic": "technology",
+      "topicTier": "technology",
+      "agreement": "aligned",
+      "time": "Just now",
+      "featured": false,
+      "runningCoverage": false,
+      "headline": "China’s Green Tech Exports Surge 70% Amid Energy Crisis",
+      "headlineEn": "China’s Green Tech Exports Surge 70% Amid Energy Crisis",
+      "headlineZh": "能源危机下中国绿色技术出口激增七成",
+      "lead": "China’s exports of solar panels, batteries, and electric vehicles jumped 70% year-on-year in March, driven by a global rush for clean energy following the Strait of Hormuz blockade. The surge, which saw solar exports hit 68 GW and battery exports reach $10 billion, underscores China’s dominant role in the green transition. Fifty countries imported record amounts of solar equipment from China, highlighting the world’s deepening reliance on its supply chains.",
+      "leadEn": "China’s exports of solar panels, batteries, and electric vehicles jumped 70% year-on-year in March, driven by a global rush for clean energy following the Strait of Hormuz blockade. The surge, which saw solar exports hit 68 GW and battery exports reach $10 billion, underscores China’s dominant role in the green transition. Fifty countries imported record amounts of solar equipment from China, highlighting the world’s deepening reliance on its supply chains.",
+      "leadZh": "受霍尔木兹海峡封锁后全球加速转向清洁能源的影响，中国三月份太阳能电池板、电池和电动汽车出口同比增长70%。此次激增中，太阳能组件出口达68吉瓦，电池出口额达100亿美元，凸显了中国在绿色转型中的主导地位。多达50个国家从中国进口太阳能设备创下历史新高，表明全球对中国供应链的依赖日益加深。",
+      "timeline": [
+        {
+          "date": "Feb 09",
+          "year": "2026",
+          "heading": "Strait of Hormuz Blockade Triggers Energy Crisis",
+          "summary": "Geopolitical tensions lead to the blockade of the Strait of Hormuz, disrupting global oil supplies and triggering an energy crisis that accelerates the shift to renewable energy."
+        },
+        {
+          "date": "Mar 01",
+          "year": "2026",
+          "heading": "China’s Green Tech Exports Jump 70%",
+          "summary": "In March, China’s exports of solar panels, batteries, and electric vehicles grow by 70% year-on-year, driven by surging global demand for clean energy alternatives."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Record Imports of Chinese Solar Equipment Reported",
+          "summary": "Data reveals that 50 countries imported record amounts of solar equipment from China in the first quarter, underscoring the global reliance on Chinese green technology."
+        }
+      ],
+      "timelineEn": [
+        {
+          "date": "Feb 09",
+          "year": "2026",
+          "heading": "Strait of Hormuz Blockade Triggers Energy Crisis",
+          "summary": "Geopolitical tensions lead to the blockade of the Strait of Hormuz, disrupting global oil supplies and triggering an energy crisis that accelerates the shift to renewable energy."
+        },
+        {
+          "date": "Mar 01",
+          "year": "2026",
+          "heading": "China’s Green Tech Exports Jump 70%",
+          "summary": "In March, China’s exports of solar panels, batteries, and electric vehicles grow by 70% year-on-year, driven by surging global demand for clean energy alternatives."
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "Record Imports of Chinese Solar Equipment Reported",
+          "summary": "Data reveals that 50 countries imported record amounts of solar equipment from China in the first quarter, underscoring the global reliance on Chinese green technology."
+        }
+      ],
+      "timelineZh": [
+        {
+          "date": "Feb 09",
+          "year": "2026",
+          "heading": "霍尔木兹海峡封锁引发能源危机",
+          "summary": "地缘政治紧张导致霍尔木兹海峡被封锁，全球石油供应中断，引发能源危机，加速了向可再生能源的转型。"
+        },
+        {
+          "date": "Mar 01",
+          "year": "2026",
+          "heading": "中国绿色技术出口增长七成",
+          "summary": "三月份，受全球对清洁能源替代品需求激增的推动，中国太阳能电池板、电池和电动汽车出口同比增长70%。"
+        },
+        {
+          "date": "May 03",
+          "year": "2026",
+          "heading": "中国太阳能设备进口创纪录",
+          "summary": "数据显示，第一季度有50个国家从中国进口太阳能设备数量创历史新高，凸显全球对中国绿色技术的依赖。"
+        }
+      ],
+      "keyDetails": [
+        "Exports of solar panels, batteries, and electric vehicles surged 70% year-on-year in March 2026.",
+        "Solar module exports reached 68 gigawatts, while battery exports hit $10 billion.",
+        "Electric and hybrid vehicle exports grew 140% compared to the previous year.",
+        "Fifty countries imported record volumes of solar equipment from China."
+      ],
+      "keyDetailsEn": [
+        "Exports of solar panels, batteries, and electric vehicles surged 70% year-on-year in March 2026.",
+        "Solar module exports reached 68 gigawatts, while battery exports hit $10 billion.",
+        "Electric and hybrid vehicle exports grew 140% compared to the previous year.",
+        "Fifty countries imported record volumes of solar equipment from China."
+      ],
+      "keyDetailsZh": [
+        "2026年3月，太阳能电池板、电池和电动汽车出口同比增长70%。",
+        "太阳能组件出口量达68吉瓦，电池出口额达100亿美元。",
+        "电动和混合动力汽车出口同比增长140%。",
+        "50个国家从中国进口的太阳能设备数量创历史新高。"
+      ],
+      "perspectives": [
+        {
+          "who": "Chinese green technology manufacturers",
+          "what": "Celebrate the export boom as validation of their industrial policy and growing global demand for clean energy solutions.",
+          "why": "Reflects national economic success and strategic positioning in the green transition."
+        },
+        {
+          "who": "Western renewable energy companies",
+          "what": "Express concern that the surge—potentially aided by state subsidies—could undercut local prices and create risky dependencies on Chinese supply chains.",
+          "why": "Frames the news as a threat to domestic industries and energy security, urging policy responses."
+        }
+      ],
+      "perspectivesEn": [
+        {
+          "who": "Chinese green technology manufacturers",
+          "what": "Celebrate the export boom as validation of their industrial policy and growing global demand for clean energy solutions.",
+          "why": "Reflects national economic success and strategic positioning in the green transition."
+        },
+        {
+          "who": "Western renewable energy companies",
+          "what": "Express concern that the surge—potentially aided by state subsidies—could undercut local prices and create risky dependencies on Chinese supply chains.",
+          "why": "Frames the news as a threat to domestic industries and energy security, urging policy responses."
+        }
+      ],
+      "perspectivesZh": [
+        {
+          "who": "中国绿色技术制造商",
+          "what": "对出口繁荣表示欢迎，认为这证明了产业政策的成功和全球对清洁能源解决方案日益增长的需求。",
+          "why": "体现了国家经济成就和在绿色转型中的战略地位。"
+        },
+        {
+          "who": "西方可再生能源公司",
+          "what": "担忧此次激增（可能得到国家补贴）会压低本地价格，并导致对中国供应链的危险依赖。",
+          "why": "将这一消息视为对国内产业和能源安全的威胁，呼吁政策应对。"
+        }
+      ],
+      "nextToWatch": {
+        "date": "2026-07-15",
+        "event": "China’s Q2 2026 green technology export data to assess if the surge is sustained.",
+        "eventEn": "China’s Q2 2026 green technology export data to assess if the surge is sustained.",
+        "eventZh": "中国2026年第二季度绿色技术出口数据，以评估激增是否持续。"
+      },
+      "sources": [
+        {
+          "name": "Solidot",
+          "url": "https://www.solidot.org/story?sid=84208",
+          "language": "zh",
+          "stance": "aligned",
+          "take": "Solidot报道称，由于霍尔木兹海峡封锁引发的能源危机，中国三月份绿色技术出口激增，太阳能、电池和电动汽车行业均创下纪录。",
+          "takeEn": "Solidot reports that China’s green tech exports surged in March due to the global energy crisis triggered by the Hormuz blockade, with solar, battery, and EV sectors all posting record numbers.",
+          "takeZh": "Solidot报道称，由于霍尔木兹海峡封锁引发的能源危机，中国三月份绿色技术出口激增，太阳能、电池和电动汽车行业均创下纪录。"
+        }
+      ],
+      "secondaryEffects": [
+        {
+          "dimension": "Solar energy sector",
+          "analysis": "The flood of Chinese solar modules may depress global prices, accelerating renewable deployment but squeezing local manufacturers in importing nations.",
+          "movements": "Module prices decline; installation rates rise in over 50 countries, intensifying market competition.",
+          "evidence": "50 countries imported record volumes of Chinese solar equipment."
+        },
+        {
+          "dimension": "Battery industry",
+          "analysis": "China’s dominance in battery exports reinforces its control over critical supply chains, potentially straining foreign automakers and energy storage projects reliant on imports.",
+          "movements": "Battery cell prices stabilize or dip due to oversupply; EV production costs may decline globally.",
+          "evidence": "Battery exports reached $10 billion, underscoring China’s scale."
+        }
+      ],
+      "secondaryEffectsEn": [
+        {
+          "dimension": "Solar energy sector",
+          "analysis": "The flood of Chinese solar modules may depress global prices, accelerating renewable deployment but squeezing local manufacturers in importing nations.",
+          "movements": "Module prices decline; installation rates rise in over 50 countries, intensifying market competition.",
+          "evidence": "50 countries imported record volumes of Chinese solar equipment."
+        },
+        {
+          "dimension": "Battery industry",
+          "analysis": "China’s dominance in battery exports reinforces its control over critical supply chains, potentially straining foreign automakers and energy storage projects reliant on imports.",
+          "movements": "Battery cell prices stabilize or dip due to oversupply; EV production costs may decline globally.",
+          "evidence": "Battery exports reached $10 billion, underscoring China’s scale."
+        }
+      ],
+      "secondaryEffectsZh": [
+        {
+          "dimension": "太阳能行业",
+          "analysis": "大量中国太阳能组件可能压低全球价格，加速可再生能源部署，但挤压进口国本地制造商。",
+          "movements": "组件价格下降；50多个国家安装率上升，市场竞争加剧。",
+          "evidence": "50个国家从中国进口的太阳能设备数量创历史新高。"
+        },
+        {
+          "dimension": "电池行业",
+          "analysis": "中国在电池出口上的主导地位强化了其对关键供应链的控制，可能给依赖进口的外国汽车制造商和储能项目带来压力。",
+          "movements": "电池电芯价格因供应过剩而稳定或下跌；全球电动汽车生产成本可能降低。",
+          "evidence": "电池出口额达100亿美元，凸显中国的规模优势。"
+        }
+      ],
+      "generatedAt": "2026-05-03T22:46:50.711Z"
+    }
+  ],
+  "alsoToday": [
+    {
+      "source": "TechCrunch",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "titleEn": "‘This is fine’ creator says AI startup stole his art",
+      "topic": "technology",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "titleEn": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "topic": "technology",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "titleEn": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "topic": "technology",
+      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/"
+    },
+    {
+      "source": "Solidot",
+      "title": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
+      "titleZh": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
+      "topic": "technology",
+      "url": "https://www.solidot.org/story?sid=84209"
+    },
+    {
+      "source": "The Verge",
+      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+      "titleEn": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+      "topic": "technology",
+      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal"
+    },
+    {
+      "source": "Solidot",
+      "title": "中国三月绿色技术出口增长七成",
+      "titleZh": "中国三月绿色技术出口增长七成",
+      "topic": "technology",
+      "url": "https://www.solidot.org/story?sid=84208"
+    },
+    {
+      "source": "The Verge",
+      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+      "titleEn": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+      "topic": "technology",
+      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale"
+    }
+  ],
+  "trackedStories": [
+    {
+      "title": "Pentagon Inks Eight AI Contrac...",
+      "count": 2
+    },
+    {
+      "title": "Will AI Lead to More Accurate ...",
+      "count": 2
+    },
+    {
+      "title": "Creator of 'This is Fine' Says...",
+      "count": 1
+    },
+    {
+      "title": "AI Outperforms Human Doctors i...",
+      "count": 1
+    },
+    {
+      "title": "How do you issue a ticket to a...",
+      "count": 1
+    },
+    {
+      "title": "VS Code Default Inserts Co-Aut...",
+      "count": 1
+    },
+    {
+      "title": "Reggie Fils-Aimé: Amazon Once ...",
+      "count": 1
+    },
+    {
+      "title": "China’s Green Tech Exports Sur...",
+      "count": 1
+    }
+  ],
+  "sourceList": [
+    "TechCrunch",
+    "Solidot",
+    "The Verge",
+    "BBC Business",
+    "Ars Technica",
+    "36氪",
+    "BBC Technology"
+  ],
+  "issueNumber": 33,
+  "issueDate": "2026-05-03",
+  "generatedAt": "2026-05-03T22:46:50.712Z",
+  "dataVersion": "1.0.0"
+}

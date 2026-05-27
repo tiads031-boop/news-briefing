@@ -1,0 +1,762 @@
+{
+  "generatedAt": "2026-05-05T16:19:34.286Z",
+  "totalTerms": 77,
+  "unresolvedTerms": 17,
+  "unresolvedRatio": 0.2208,
+  "topUnresolved": [
+    {
+      "term": "Distillation (in AI)",
+      "language": "en",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A technique where a smaller model learns to mimic a larger model’s outputs, potentially transferring knowledge but also raising IP concerns."
+    },
+    {
+      "term": "IPO（首次公开募股）",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "私人公司首次向公众出售股票，以筹集资金并在交易所挂牌交易。"
+    },
+    {
+      "term": "股权",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "个人持有公司股份的比例，代表其对资产和收益的索取权。"
+    },
+    {
+      "term": "模型蒸馏（AI领域）",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "一种让小型模型学习模仿大型模型输出的技术，可传递知识但也引发知识产权争议。"
+    },
+    {
+      "term": "地缘政治风险溢价",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "投资者为补偿地区不稳定对资产价值潜在影响而要求的额外收益或价格上涨。"
+    },
+    {
+      "term": "基准原油",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "用作全球原油交易定价参考的标准化油品（如布伦特、WTI）。"
+    },
+    {
+      "term": "巨额并购交易",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "大型合并或收购，例如计划中的收购华纳兄弟探索。"
+    },
+    {
+      "term": "Third-party logistics (3PL)",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "Companies that provide outsourced logistics services, including transportation, warehousing, and order fulfillment, to other businesses."
+    },
+    {
+      "term": "Last-mile delivery",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "The final step of the delivery process from a distribution center to the end customer, often the most expensive and complex part of shipping."
+    },
+    {
+      "term": "GLP-1 agonists",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "A class of drugs that mimic the glucagon-like peptide-1 hormone to regulate appetite and blood sugar; used for diabetes and weight loss."
+    },
+    {
+      "term": "First-mover advantage",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "The competitive edge gained by being the initial significant occupant of a market segment, often leading to brand loyalty and market share control."
+    },
+    {
+      "term": "Duopoly",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "A market structure dominated by two firms, where their competitive decisions heavily influence pricing and innovation."
+    },
+    {
+      "term": "第三方物流",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "为企业提供运输、仓储、订单履约等外包物流服务的公司。"
+    },
+    {
+      "term": "末端配送",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "从配送中心到终端客户的最后一段配送环节，通常是成本最高、最复杂的部分。"
+    },
+    {
+      "term": "GLP-1激动剂",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "一类模仿胰高血糖素样肽-1激素作用的药物，用于调节食欲和血糖，治疗糖尿病与肥胖症。"
+    },
+    {
+      "term": "先发优势",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "最早进入某一市场的企业所获得的竞争优势，常表现为品牌忠诚度和市场份额掌控。"
+    },
+    {
+      "term": "双头垄断",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "由两家企业主宰的市场结构，其竞争决策极大影响定价与创新。"
+    }
+  ],
+  "allTerms": [
+    {
+      "term": "After-hours trading",
+      "language": "en",
+      "count": 6,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Stock trading that occurs after the official market closes, often reacting to late earnings announcements."
+    },
+    {
+      "term": "盘后交易",
+      "language": "zh",
+      "count": 6,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "官方市场收盘后发生的股票交易，通常对较晚发布的财报做出反应。"
+    },
+    {
+      "term": "Earnings beat",
+      "language": "en",
+      "count": 4,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "When a company reports quarterly profits or revenues that are higher than what analysts had predicted."
+    },
+    {
+      "term": "Unsolicited bid",
+      "language": "en",
+      "count": 4,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An offer to buy a company that was not actively sought by the target company's board."
+    },
+    {
+      "term": "业绩超预期",
+      "language": "zh",
+      "count": 4,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "指公司公布的季度利润或收入高于分析师此前预测。"
+    },
+    {
+      "term": "Ultra-low-cost carrier (ULCC)",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An airline that strips down fares to the bare minimum, charging extra for everything from carry-on bags to seat assignments, targeting highly price-sensitive travelers."
+    },
+    {
+      "term": "Basic economy",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A no-frills fare class introduced by legacy airlines that competes directly with ULCCs, offering only a seat and a small personal item, with limited or no changes allowed."
+    },
+    {
+      "term": "Load factor",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The percentage of available seats filled with paying passengers; a critical metric for airline profitability, as fixed costs are high."
+    },
+    {
+      "term": "Guidance",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A company’s forecast of its expected future financial performance, used by investors to gauge growth prospects."
+    },
+    {
+      "term": "Unsolicited acquisition proposal",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A takeover bid made without the target company's request or consent."
+    },
+    {
+      "term": "Financing",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The process of providing funds for business activities, making purchases, or investing. In M&A, it refers to how a company will pay for the acquisition."
+    },
+    {
+      "term": "Securities laws",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Federal regulations that govern the issuance and trading of stocks and bonds to protect investors."
+    },
+    {
+      "term": "Settlement",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An agreement to end a lawsuit without admitting wrongdoing, often involving a financial payment."
+    },
+    {
+      "term": "SEC",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The U.S. Securities and Exchange Commission, the federal agency responsible for enforcing securities laws."
+    },
+    {
+      "term": "Market capitalization",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The total value of a company's outstanding shares, calculated by multiplying stock price by number of shares."
+    },
+    {
+      "term": "Financial engineering",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The use of mathematical tools and financial structures to achieve a goal, often involving complex financing arrangements."
+    },
+    {
+      "term": "IPO (Initial Public Offering)",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The first sale of stock by a private company to the public, allowing it to raise capital and trade shares on an exchange."
+    },
+    {
+      "term": "Equity Stake",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The percentage of a company owned by an individual, representing their claim on assets and earnings."
+    },
+    {
+      "term": "Distillation (in AI)",
+      "language": "en",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A technique where a smaller model learns to mimic a larger model’s outputs, potentially transferring knowledge but also raising IP concerns."
+    },
+    {
+      "term": "supply disruption",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An interruption in the normal flow of a commodity, often caused by geopolitical events, leading to price volatility."
+    },
+    {
+      "term": "geopolitical risk premium",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Extra yield or price increase investors demand to compensate for potential instability in a region affecting asset values."
+    },
+    {
+      "term": "benchmark crude",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Standardized grade of oil (e.g., Brent, WTI) used as reference for pricing global crude transactions."
+    },
+    {
+      "term": "Streaming revenue",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Income generated from subscription-based streaming services like Paramount+."
+    },
+    {
+      "term": "Price hike",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An increase in the subscription fee charged to customers."
+    },
+    {
+      "term": "M&A megadeal",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A large-scale merger or acquisition, like the planned purchase of Warner Bros. Discovery."
+    },
+    {
+      "term": "Childcare desert",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A geographic area where the number of children under five greatly exceeds the available licensed childcare slots, typically a ratio of more than 3:1."
+    },
+    {
+      "term": "Supply-demand gap",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The shortfall between existing licensed childcare capacity and the need from families, leading to unmet demand and often higher prices."
+    },
+    {
+      "term": "Labor force participation rate",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The percentage of working-age people either employed or actively looking for work; childcare shortages can reduce this rate, particularly for women."
+    },
+    {
+      "term": "Direct listing",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A method of going public without underwriters, where existing shares are sold directly to the public, unlike a traditional IPO."
+    },
+    {
+      "term": "Year-over-year (YoY) revenue growth",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A comparison of revenue in the current quarter to the same quarter in the previous year, used to measure performance."
+    },
+    {
+      "term": "subpoena",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A legal order requiring a person to testify or produce evidence."
+    },
+    {
+      "term": "Fed board",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "The Board of Governors of the Federal Reserve System, which oversees the U.S. central bank."
+    },
+    {
+      "term": "Third-Party Financing",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "Debt or equity provided by banks or institutional investors to fund a merger, distinct from using the acquirer’s own cash reserves."
+    },
+    {
+      "term": "Balance Sheet",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "A financial statement showing a company’s assets, liabilities, and shareholder equity at a specific point in time."
+    },
+    {
+      "term": "Takeover Bid",
+      "language": "en",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "An offer by one company to purchase another, either through cash, stock, or a combination, requiring shareholder and regulatory approval."
+    },
+    {
+      "term": "超低成本航空（ULCC）",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "将票价压缩至极低的航空公司模式，对随身行李、选座等所有额外服务收费，瞄准对价格极其敏感的旅客。"
+    },
+    {
+      "term": "基础经济舱",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "传统航司推出的简朴服务票价等级，与超低成本航空直接竞争，仅提供座位和小件个人物品，限制或禁止更改。"
+    },
+    {
+      "term": "载客率",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "付费旅客占可用座位的百分比；是衡量航空公司盈利能力的关键指标，因固定成本较高。"
+    },
+    {
+      "term": "业绩指引",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "公司对未来财务业绩的预测，投资者用以判断增长前景。"
+    },
+    {
+      "term": "主动收购提议",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "未经目标公司请求或同意而提出的收购要约。"
+    },
+    {
+      "term": "融资",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "为经营活动、采购或投资提供资金的过程。在并购中指公司如何为收购交易支付。"
+    },
+    {
+      "term": "证券法",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "规范股票和债券发行与交易的联邦法规，旨在保护投资者。"
+    },
+    {
+      "term": "和解",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "在不承认过错的情况下终结诉讼的协议，常涉及财务赔偿。"
+    },
+    {
+      "term": "SEC",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "美国证券交易委员会，负责执行证券法的联邦机构。"
+    },
+    {
+      "term": "主动要约（非请求收购）",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "未经目标公司董事会主动寻求而发出的收购提议。"
+    },
+    {
+      "term": "市值",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "公司已发行股份的总价值，通过股价乘以总股数计算得出。"
+    },
+    {
+      "term": "金融工程",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "运用数学工具和金融结构实现特定目标，常涉及复杂的融资安排。"
+    },
+    {
+      "term": "IPO（首次公开募股）",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "私人公司首次向公众出售股票，以筹集资金并在交易所挂牌交易。"
+    },
+    {
+      "term": "股权",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "个人持有公司股份的比例，代表其对资产和收益的索取权。"
+    },
+    {
+      "term": "模型蒸馏（AI领域）",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "一种让小型模型学习模仿大型模型输出的技术，可传递知识但也引发知识产权争议。"
+    },
+    {
+      "term": "供应中断",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "大宗商品正常流动受到干扰，通常由地缘政治事件引发，导致价格波动。"
+    },
+    {
+      "term": "地缘政治风险溢价",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "投资者为补偿地区不稳定对资产价值潜在影响而要求的额外收益或价格上涨。"
+    },
+    {
+      "term": "基准原油",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "用作全球原油交易定价参考的标准化油品（如布伦特、WTI）。"
+    },
+    {
+      "term": "流媒体收入",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "来自Paramount+等订阅制流媒体服务的收入。"
+    },
+    {
+      "term": "提价",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "向客户收取的订阅费用上涨。"
+    },
+    {
+      "term": "巨额并购交易",
+      "language": "zh",
+      "count": 2,
+      "matched": false,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "大型合并或收购，例如计划中的收购华纳兄弟探索。"
+    },
+    {
+      "term": "育儿荒漠",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "一个地理区域，其中5岁以下儿童的数量远远超过可用的持证托儿名额，通常比例超过3:1。"
+    },
+    {
+      "term": "供需缺口",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "现有持证托儿服务能力与家庭需求之间的短缺，导致需求未得到满足，并往往推高价格。"
+    },
+    {
+      "term": "劳动参与率",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "适龄劳动人口中就业或积极寻找工作者的百分比；托儿服务短缺可能降低这一比率，尤其对女性影响较大。"
+    },
+    {
+      "term": "直接上市",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "一种无承销商的上市方式，现有股份直接向公众出售，区别于传统IPO。"
+    },
+    {
+      "term": "营收同比增速",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "将当前季度营收与去年同期进行比较，用于衡量业绩表现。"
+    },
+    {
+      "term": "传票",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "要求某人作证或提供证据的法律命令。"
+    },
+    {
+      "term": "美联储董事会",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "联邦储备系统的理事会，负责监督美国中央银行。"
+    },
+    {
+      "term": "主动收购要约",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "在未获目标公司请求或许可的情况下提出的收购报价，若被拒绝常被视为敌意收购。"
+    },
+    {
+      "term": "第三方融资",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "由银行或机构投资者提供的债务或股权资金，用于并购交易，区别于收购方自有现金。"
+    },
+    {
+      "term": "资产负债表",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "反映公司在某一时点资产、负债和股东权益的财务状况报表。"
+    },
+    {
+      "term": "收购报价",
+      "language": "zh",
+      "count": 2,
+      "matched": true,
+      "firstSeenIn": "latest:news-data.json",
+      "sampleExplanation": "一家公司为购买另一家公司而提出的具体条件，涉及现金、股票或两者结合，且须经股东及监管批准。"
+    },
+    {
+      "term": "Third-party logistics (3PL)",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "Companies that provide outsourced logistics services, including transportation, warehousing, and order fulfillment, to other businesses."
+    },
+    {
+      "term": "Last-mile delivery",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "The final step of the delivery process from a distribution center to the end customer, often the most expensive and complex part of shipping."
+    },
+    {
+      "term": "GLP-1 agonists",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "A class of drugs that mimic the glucagon-like peptide-1 hormone to regulate appetite and blood sugar; used for diabetes and weight loss."
+    },
+    {
+      "term": "First-mover advantage",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "The competitive edge gained by being the initial significant occupant of a market segment, often leading to brand loyalty and market share control."
+    },
+    {
+      "term": "Duopoly",
+      "language": "en",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "A market structure dominated by two firms, where their competitive decisions heavily influence pricing and innovation."
+    },
+    {
+      "term": "第三方物流",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "为企业提供运输、仓储、订单履约等外包物流服务的公司。"
+    },
+    {
+      "term": "末端配送",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "从配送中心到终端客户的最后一段配送环节，通常是成本最高、最复杂的部分。"
+    },
+    {
+      "term": "GLP-1激动剂",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "一类模仿胰高血糖素样肽-1激素作用的药物，用于调节食欲和血糖，治疗糖尿病与肥胖症。"
+    },
+    {
+      "term": "先发优势",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "最早进入某一市场的企业所获得的竞争优势，常表现为品牌忠诚度和市场份额掌控。"
+    },
+    {
+      "term": "双头垄断",
+      "language": "zh",
+      "count": 1,
+      "matched": false,
+      "firstSeenIn": "archive:2026-05-04.json",
+      "sampleExplanation": "由两家企业主宰的市场结构，其竞争决策极大影响定价与创新。"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+name: Update News & Deploy
+
+on:
+  schedule:
+    # Daily at 00:00 and 10:00 UTC = 08:00 and 18:00 CST (China)
+    - cron: '0 0,10 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update news data
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+        run: npm run update-news
+
+      - name: Build site
+        run: npm run build
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add public/news-data.json public/news-dates.json public/archive public/issue-config.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config user.name "GlobalPulse Bot"
+          git config user.email "bot@globalpulse.local"
+          git commit -m "📰 Auto-update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

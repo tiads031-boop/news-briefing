@@ -1,0 +1,262 @@
+import type { Story, AlsoTodayItem } from './types';
+
+export const stories: Story[] = [
+  {
+    id: 'iran-us-conflict',
+    topic: 'geopolitics',
+    topicTier: 'geopolitics',
+    agreement: 'disputed',
+    time: '13h ago',
+    featured: true,
+    runningCoverage: true,
+    headline: 'Iran & the United States: conflict, negotiation, regional spillover',
+    headlineZh: '伊朗与美国：冲突、谈判与地区外溢',
+    lead: 'A U.S.-led naval blockade of Iranian ports is active after a ceasefire window lapsed, even as both sides signal willingness to resume negotiations in Islamabad; meanwhile merchant transits through the Strait of Hormuz are contested following seizures and attempted passages. Regional ceasefires between Israel and Hezbollah have eased one front of the wider crisis, but U.S. seizures of Iranian vessels and confrontations at sea have left talks on shaky footing.',
+    leadZh: '停火窗口失效后，美国主导的对伊朗港口海上封锁仍在持续；与此同时，双方均表示愿意在伊斯兰堡恢复谈判，但霍尔木兹海峡的商船通行因扣押与闯关事件而陷入争议。以色列与真主党之间的地区停火缓解了这场更广泛危机的一个战线，但美国扣押伊朗船只及海上对峙仍使谈判前景不稳。',
+    timeline: [
+      { date: 'Apr 16', year: '2026', heading: 'Israel–Lebanon 10-day ceasefire begins', summary: 'A 10-day ceasefire between Israel and Hezbollah takes effect, pausing the intense fighting on that front and potentially easing regional pressure on U.S.–Iran negotiations.' },
+      { date: 'Apr 17', year: '2026', heading: 'Iran allows merchant ships through Hormuz', summary: 'Iran announces the Strait of Hormuz will be open to merchant shipping for the remainder of the Lebanon ceasefire period; markets react to reduced immediate shipping risk.' },
+      { date: 'Apr 20', year: '2026', heading: 'U.S. seizes Iranian ship as ceasefire nears expiry', summary: 'As the two-week ceasefire window was set to expire, U.S. forces captured an Iranian-flagged cargo ship in the Strait of Hormuz — a move that Iranian officials say jeopardizes further talks.' },
+      { date: 'Apr 21', year: '2026', heading: 'Multiple vessels attempt Hormuz transits', summary: 'Three vessels — two cargo ships (one Iranian-flagged) and a fuel tanker — attempted to transit the Strait of Hormuz while US and Iranian naval measures remained in place, heightening tensions at sea.' },
+    ],
+    keyDetails: [
+      'The United States began a naval blockade of Iranian ports after a deadline expired on 2026-04-13, deploying more than 10,000 personnel and a dozen warships in the first 24 hours.',
+      'U.S. and Iranian delegations have signaled a possible resumption of talks in Islamabad, with President Trump saying new talks could happen \'over the next two days\'.',
+      'Iran announced the Strait of Hormuz would be open to merchant shipping during the remaining pause in the Lebanon-Israel ceasefire, prompting an immediate drop in oil-risk sentiment.',
+      'The U.S. seized an Iranian-flagged cargo ship in the Strait of Hormuz as a ceasefire was due to expire, a move Washington says enforces the blockade and Tehran says undermines negotiations.',
+    ],
+    keyDetailsZh: [
+      '美国在2026年4月13日截止日期过后开始对伊朗港口实施海上封锁，首批24小时内部署了超过1万名人员和十余艘军舰。',
+      '美伊代表团已表示可能在伊斯兰堡恢复谈判，特朗普总统称新谈判可能“在未来两天内”进行。',
+      '伊朗宣布在黎以停火剩余期间，霍尔木兹海峡将向商船开放，此举立即降低了石油风险情绪。',
+      '美国在停火即将到期时于霍尔木兹海峡扣押了一艘伊朗籍货船；美方称此举是执行封锁，德黑兰则称此举破坏谈判。',
+    ],
+    perspectives: [
+      { who: 'U.S. administration', what: 'The naval blockade and seizure of suspect vessels are necessary to enforce sanctions and prevent Iran from exploiting maritime traffic, while keeping diplomatic channels open toward talks in Islamabad.', why: 'Different framing' },
+      { who: 'Iranian government / IRGC', what: 'Tehran views the U.S. seizures and blockade as hostile acts that undermine negotiations and sovereignty, even as it has intermittently allowed merchant transits tied to ceasefire terms.', why: 'Different framing' },
+      { who: 'Pakistani mediators', what: 'Pakistan\'s army leadership is offering Islamabad as a venue and a facilitator to restart talks, portraying mediation as the quickest path to de-escalation.', why: 'Different framing' },
+      { who: 'Shipping industry / commercial shipping observers', what: 'Commercial shippers are monitoring transits closely; seizures and competing blockades have increased insurance and operational risk, complicating passage even when Iranian authorities signal temporary openness.', why: 'Different framing' },
+    ],
+    forecasts: [
+      { who: 'The New York Times (analysis)', quote: 'A pause in the fighting between Israeli forces and Iranian-allied Hezbollah militants may help smooth the way to a peace deal between the U.S. and Iran.', source: 'The New York Times · 2026-04-16' },
+      { who: 'Washington Post reporting', quote: 'Iran talks [are] on shaky footing after U.S. seizure of ship in Strait of Hormuz.', source: 'The Washington Post · 2026-04-20' },
+    ],
+    nextToWatch: {
+      date: '2026-04-22',
+      event: 'Two-week US–Iran ceasefire window (agreed 2026-04-08) formally lapses — the expiry was cited by reporting as a deadline that triggered the U.S. blockade and the subsequent ship seizure.',
+    },
+    sources: [
+      { name: 'Reuters', stance: 'aligned', take: 'US-Iran peace talks could resume in next two days, Trump says' },
+      { name: 'BBC', stance: 'aligned', take: 'Trump says new US-Iran talks could happen \'over next two days\'' },
+      { name: 'Al Jazeera', stance: 'aligned', take: 'Israel and Lebanon Reach Deal on a 10-Day Cease-Fire' },
+      { name: 'Financial Times', stance: 'aligned', take: 'Israel and Lebanon\'s 10-day ceasefire goes into effect' },
+    ],
+    secondaryEffects: [
+      {
+        dimension: 'Oil markets',
+        analysis: 'Maritime disruptions and the threat to Hormuz transit elevated the energy risk premium; when Iran announced merchant transits during a separate Lebanon ceasefire, market risk sentiment eased and prices reacted. Traders and benchmarks are pricing geopolitical risk into futures, and statements about safe passage or seizures cause near-term volatility in Brent and regional spot markets.',
+        movements: 'Qualitative: market risk premium rose during the March–April confrontations and then eased after Iran announced limited reopenings; bundle reporting records a market reaction (oil risk sentiment fell) but does not provide a precise Brent price series in the bundle.',
+        evidence: 'Bundled reporting notes Iran\'s statement opening the Strait for merchant shipping and links that to a market reaction; Chinese reporting and regional outlets said oil risk perceptions fell after Iran announced reopenings.',
+      },
+      {
+        dimension: 'Shipping & trade (Strait of Hormuz)',
+        analysis: 'Competing maritime enforcement — a U.S. naval blockade and Iran\'s own measures — has directly increased operational risk for tanker and cargo transits through Hormuz, forcing rerouting decisions, convoying, and closer monitoring by commercial operators; seizures and attempted transits have produced immediate confrontations that raise the chance of armed incidents at sea.',
+        movements: 'Observable: U.S. blockade deployment and the capture of an Iranian-flagged cargo ship (reported 2026-04-20) followed by observed attempts by three vessels to transit on 2026-04-21; no bundled reporting confirms a sustained stoppage of global oil flows yet.',
+        evidence: 'U.S. began a blockade on 2026-04-13 and then seized an Iranian ship as the ceasefire expired; multiple vessels later attempted transits (bundles 13, 14, 15).',
+      },
+    ],
+  },
+  {
+    id: 'turkey-school-shootings',
+    topic: 'crime-justice',
+    topicTier: 'crime',
+    agreement: 'aligned',
+    time: '8h ago',
+    gcc: true,
+    headline: 'Second school shooting in two days leaves four dead in Kahramanmaras, Turkey',
+    lead: 'Turkey has suffered two school shootings on consecutive days, heightening public alarm: an April 18 attack by an ex-student injured 16, and on April 19 a separate shooting in Kahramanmaras killed four, including three students and a teacher.',
+    timeline: [
+      { date: 'Apr 18', year: '2026', heading: 'First school attack', summary: 'An ex-student opened fire at a high school in southern Turkey, injuring 16 people, according to media reports.' },
+      { date: 'Apr 19', year: '2026', heading: 'Kahramanmaras shooting', summary: 'A gunman opened fire at a school in Kahramanmaras province; four people were killed and several others wounded.' },
+      { date: 'Apr 19', year: '2026', heading: 'Official casualty confirmation', summary: 'The local governor confirmed the Kahramanmaras victims included three students and a teacher.' },
+    ],
+    keyDetails: [
+      'On 2026-04-18 an ex-student opened fire at a high school in southern Turkey, injuring 16 people.',
+      'On 2026-04-19 a separate school shooting in Kahramanmaras province killed four people and wounded several others.',
+      'The four people killed in the Kahramanmaras attack were three students and a teacher, according to the local governor.',
+      'The April 18 attacker at the earlier high school was identified in reports as an ex-student.',
+    ],
+    sources: [
+      { name: 'BBC', stance: 'aligned', take: 'Four killed and several injured after school shooting in Turkey' },
+      { name: 'Reuters', stance: 'aligned', take: 'Four killed in Turkiye\'s second school shooting in two days' },
+    ],
+  },
+  {
+    id: 'hungary-government',
+    topic: 'europe',
+    topicTier: 'geopolitics',
+    agreement: 'disputed',
+    time: '7h ago',
+    headline: 'Péter Magyar unveils cabinet and outlines steps to restore EU ties and unfreeze funds after defeating Viktor Orbán',
+    lead: 'Péter Magyar, whose Tisa party won a landslide in mid-April, has begun forming a government that promises to dismantle Orbán-era state media, repair relations with the EU and recover frozen European funds—moves that set a fast timeline for political and economic reset in Hungary. His cabinet reveal and a first set of measures to regain EU funding are the pivotal developments shaping Hungary\'s post-Orbán transition today.',
+    timeline: [
+      { date: 'Apr 14', year: '2026', heading: 'Orbán concedes; public reaction', summary: 'Viktor Orbán conceded defeat, prompting public jubilation among many Hungarians relieved at the prospect of a political shift after long-standing grievances over the economy and EU tensions.' },
+      { date: 'Apr 15', year: '2026', heading: 'Presidential invitation to form government', summary: 'President Tamás Sulyok formally invited Péter Magyar to form a new government and indicated the nomination will be made at the new parliament\'s first session.' },
+      { date: 'Apr 19', year: '2026', heading: 'Media and timeline pledges', summary: 'Magyar told the public he would suspend state-media news coverage he labeled a \'propaganda machine,\' urged institutional changes including pressure on the presidency, and said a new government could be in place by mid-May.' },
+      { date: 'Apr 20', year: '2026', heading: 'Cabinet unveiled and EU steps set out', summary: 'Magyar named his cabinet team to lead an economic reset and presented initial steps to try to regain access to EU funds that had been withheld over corruption and rule-of-law issues.' },
+    ],
+    keyDetails: [
+      'Péter Magyar\'s Tisa party won the April parliamentary election with about 53.69% of the vote and was projected to take 138 of 199 seats, giving it a two-thirds majority.',
+      'Viktor Orbán conceded defeat after 16 years in power, ending his long incumbency as prime minister.',
+      'President Tamás Sulyok invited Péter Magyar to form a new government and is set to formally nominate him at the first sitting of the new parliament.',
+      'Magyar has pledged to suspend state media news coverage he described as a \'propaganda machine\' and to overhaul the public broadcaster to \'restore its public service character.\'',
+    ],
+    perspectives: [
+      { who: 'Incoming government (Péter Magyar and Tisa party)', what: 'Magyar argues the priority is to restore democratic norms, dismantle state-media propaganda, \'return to Europe\' and quickly repair ties with the EU and NATO to revive the economy.', why: 'Different framing' },
+      { who: 'EU officials and Western analysts', what: 'EU stakeholders and analysts say Hungary will need verifiable, rule-of-law reforms and institutional steps before frozen EU funds can be released and bilateral trust restored.', why: 'Different framing' },
+    ],
+    sources: [
+      { name: 'Financial Times', stance: 'aligned', take: 'Mapping Hungary\'s Post-Orbán Future' },
+      { name: 'The Guardian', stance: 'aligned', take: 'How Orban Lost His Touch, and Hungary\'s Election' },
+      { name: 'Politico', stance: 'aligned', take: 'Hungary\'s prime minister-elect vows to suspend \'propaganda machine\' state media' },
+      { name: 'Reuters', stance: 'aligned', take: 'Hungary\'s Magyar urges president to quit, vows to overhaul state media' },
+    ],
+  },
+  {
+    id: 'trump-powell',
+    topic: 'us-politics',
+    topicTier: 'geopolitics',
+    agreement: 'aligned',
+    time: '8h ago',
+    headline: 'Trump Threatens to Fire Fed Chair Jerome Powell, Tying Removal to Kevin Warsh Confirmation',
+    lead: 'President Donald Trump publicly threatened on April 19, 2026, to remove Federal Reserve Chair Jerome Powell unless Kevin Warsh is confirmed by a May 15 deadline, and said he would not drop a Justice Department investigation into Powell; the statements have raised questions about political pressure on the central bank. These comments escalate a pressure campaign that links a Fed leadership change to a Senate confirmation timeline.',
+    timeline: [
+      { date: 'Nov 2', year: '2017', heading: 'Powell Nominated', summary: 'President Donald Trump announced Jerome Powell as his nominee to succeed Janet Yellen as Federal Reserve chair.' },
+      { date: 'Feb 5', year: '2018', heading: 'Powell Takes Office', summary: 'Jerome Powell was sworn in as Chair of the Federal Reserve, beginning his first term leading the central bank.' },
+      { date: 'Apr 19', year: '2026', heading: 'Public Threat', summary: 'President Trump publicly threatened to fire Fed Chair Jerome Powell unless Powell steps down "in time" and tied the potential removal to the confirmation of Kevin Warsh before May 15, and said he would not drop a Justice Department investigation into Powell.' },
+    ],
+    keyDetails: [
+      'President Donald Trump said he would seek to fire Federal Reserve Chair Jerome Powell if Kevin Warsh is not confirmed before May 15, 2026.',
+      'On April 19, 2026, Trump said he would fire Jerome Powell if the Fed chair does not step down "in time."',
+      'Bloomberg reported that Trump said he would not drop a Justice Department investigation into Jerome Powell.',
+      'The Financial Times reported the president is conditioning Powell\'s removal on the Senate confirmation of Kevin Warsh by May 15.',
+    ],
+    nextToWatch: {
+      date: '2026-05-15',
+      event: 'Deadline President Trump set for Kevin Warsh\'s Senate confirmation tied to potential removal of Jerome Powell',
+    },
+    sources: [
+      { name: 'Bloomberg', stance: 'aligned', take: 'Can Trump unseat Powell as Fed chair?' },
+      { name: 'Financial Times', stance: 'aligned', take: 'Trump Threatens to Fire Powell If He Doesn\'t Step Down From Fed' },
+    ],
+  },
+  {
+    id: 'apple-ceo',
+    topic: 'technology-science',
+    topicTier: 'technology',
+    agreement: 'aligned',
+    time: '9h ago',
+    headline: 'Apple names John Ternus as next CEO; Tim Cook to become executive chairman with transition set for Sept. 1, 2026',
+    lead: 'On April 20, 2026 Apple announced that longtime hardware executive John Ternus will succeed Tim Cook as CEO, while Cook will move into the role of executive chairman; the change is scheduled to take effect on September 1, 2026. The handover ends Cook\'s roughly 15-year run as chief executive and places day-to-day leadership in the hands of an internal hardware specialist during a period of record company growth.',
+    timeline: [
+      { date: 'Aug 24', year: '2011', heading: 'Cook becomes CEO', summary: 'Tim Cook succeeded Steve Jobs as Apple CEO, beginning his tenure running the company.' },
+      { date: 'Apr 20', year: '2026', heading: 'Apple announces succession', summary: 'Apple publicly named John Ternus as its next CEO and said Tim Cook will become executive chairman; the company published the announcement on its website and in press releases.' },
+      { date: 'Apr 21', year: '2026', heading: 'Legacy quantified', summary: 'Bloomberg published a numerical review of Tim Cook\'s roughly 15-year tenure, highlighting Apple\'s market-cap and profit growth under his leadership.' },
+      { date: 'Sep 1', year: '2026', heading: 'Transition takes effect', summary: 'Apple\'s announced effective date for John Ternus to assume the CEO role and for Tim Cook to become executive chairman.' },
+    ],
+    keyDetails: [
+      'Apple announced that John Ternus will succeed Tim Cook as the company\'s next chief executive officer.',
+      'The leadership change was announced on April 20, 2026 and Apple said the appointments take effect on September 1, 2026.',
+      'Tim Cook will relinquish the CEO role and become Apple\'s executive chairman.',
+      'John Ternus is currently Apple\'s Senior Vice President of Hardware Engineering and will join Apple\'s board upon becoming CEO.',
+    ],
+    nextToWatch: {
+      date: '2026-09-01',
+      event: 'Effective date for John Ternus to become CEO and for Tim Cook to assume the role of executive chairman.',
+    },
+    sources: [
+      { name: 'Bloomberg', stance: 'aligned', take: 'Apple CEO Tim Cook\'s 15-Year Legacy by the Numbers' },
+      { name: 'The Verge', stance: 'aligned', take: 'Tim Cook\'s 15-year legacy by the numbers: Apple\'s market cap grew from $350B in 2011 to $4T+ now' },
+      { name: 'Apple', stance: 'aligned', take: 'Apple Leadership - John Ternus' },
+      { name: 'Reuters', stance: 'aligned', take: 'Apple names hardware chief John Ternus as next CEO' },
+    ],
+  },
+  {
+    id: 'cerebras-ipo',
+    topic: 'technology-science',
+    topicTier: 'technology',
+    agreement: 'aligned',
+    time: '7h ago',
+    headline: 'AI chipmaker Cerebras files for IPO, seeks $35 billion-plus valuation after reported OpenAI and AWS deals',
+    lead: 'Cerebras Systems filed paperwork to go public on 2026-04-19, aiming to raise more than $3 billion and targeting a valuation of at least $35 billion after reporting large commercial agreements with OpenAI and Amazon Web Services.',
+    timeline: [
+      { date: 'Jan 1', year: '2025', heading: 'Aborted IPO attempt', summary: 'Cerebras reportedly scrapped earlier plans to pursue a public listing in 2025.' },
+      { date: 'Feb 1', year: '2026', heading: 'Private valuation noted', summary: 'Cerebras\'s most recent private valuation was about $22 billion, recorded in February 2026.' },
+      { date: 'Apr 19', year: '2026', heading: 'Commercial deals reported', summary: 'In the months before the IPO filing, Cerebras announced an agreement with Amazon Web Services to deploy its chips in AWS data centers and reported a multi-billion-dollar commercial relationship with OpenAI.' },
+      { date: 'Apr 19', year: '2026', heading: 'IPO filing', summary: 'Cerebras filed IPO paperwork on April 19, 2026, seeking to raise over $3 billion and targeting a valuation north of $35 billion.' },
+    ],
+    keyDetails: [
+      'Cerebras filed to go public on April 19, 2026.',
+      'The company is aiming to raise more than $3 billion in the IPO and is seeking a valuation of at least $35 billion, about a 60% premium to its last private valuation.',
+      'Cerebras\'s last private valuation was roughly $22 billion in February 2026.',
+      'Cerebras and Amazon Web Services reached an agreement to use Cerebras chips in AWS data centers, announced in the months before the IPO filing.',
+    ],
+    sources: [
+      { name: 'Reuters', stance: 'aligned', take: 'AI chip startup Cerebras files for IPO' },
+      { name: 'Bloomberg', stance: 'aligned', take: 'AI chipmaker Cerebras files to go public after scrapping IPO plans last year' },
+      { name: 'Financial Times', stance: 'aligned', take: 'Cerebras Prepares Public Listing, Eyes $35 Billion-Plus Valuation' },
+    ],
+  },
+  {
+    id: 'bbc-job-cuts',
+    topic: 'culture-sports',
+    topicTier: 'culture',
+    agreement: 'aligned',
+    time: '8h ago',
+    gcc: true,
+    headline: 'BBC to Cut Up to 2,000 Jobs, Citing Significant Financial Pressures',
+    lead: 'The BBC announced on 2026-04-19 plans to cut as many as 2,000 jobs — about 10% of its workforce — over the next two years as it responds to significant financial pressures, an announcement made ahead of a planned director-general change next month.',
+    timeline: [
+      { date: 'Apr 19', year: '2026', heading: 'Cut announcement', summary: 'The BBC announced plans to cut up to 2,000 jobs, citing the need to respond to financial pressures.' },
+      { date: 'Apr 19', year: '2026', heading: 'Scale of reductions', summary: 'The planned cuts were reported to equal about 10% of the workforce and were described as the broadcaster\'s largest downsizing in 15 years.' },
+      { date: 'Apr 19', year: '2026', heading: 'Timing and rationale', summary: 'The acting director-general said the cuts will take place over the next two years because the BBC faces \'significant financial pressures\' and the announcement came ahead of a scheduled leadership change.' },
+    ],
+    keyDetails: [
+      'The BBC announced plans to cut as many as 2,000 jobs.',
+      'The planned cuts amount to about 10 percent of the BBC\'s workforce.',
+      'The broadcaster said the reductions will be spread over the next two years.',
+      'The acting director-general announced the cuts live on the BBC, saying the corporation faces \'significant financial pressures, which we need to respond to at pace.\'',
+    ],
+    sources: [
+      { name: 'BBC', stance: 'aligned', take: 'BBC Announces Plan to Cut Around 2,000 Jobs' },
+      { name: 'The Guardian', stance: 'aligned', take: 'BBC to cut up to 2,000 jobs in biggest downsize in 15 years' },
+      { name: 'Reuters', stance: 'aligned', take: 'BBC announces up to 2,000 layoffs in next two years' },
+    ],
+  },
+];
+
+export const alsoToday: AlsoTodayItem[] = [
+  { source: 'Reuters', title: 'UK economy beat expectations to grow by 0.5% in February', titleEn: 'UK economy beat expectations to grow by 0.5% in February', titleZh: '英国经济2月增长0.5% 超预期', topic: 'economy-markets' },
+  { source: 'BBC', title: 'Japan lifts post-World War II ban on lethal weapons exports', titleEn: 'Japan lifts post-World War II ban on lethal weapons exports', titleZh: '日本解除二战后致命武器出口禁令', topic: 'china-asia' },
+  { source: 'Financial Times', title: 'IMF Restores Formal Relations With Venezuela', titleEn: 'IMF Restores Formal Relations With Venezuela', titleZh: '国际货币基金组织恢复与委内瑞拉正式关系', topic: 'economy-markets' },
+  { source: 'The Guardian', title: 'Eight children killed in Louisiana domestic shooting', titleEn: 'Eight children killed in Louisiana domestic shooting', titleZh: '路易斯安那州家庭暴力枪击案 八名儿童遇难', topic: 'crime-justice' },
+  { source: 'Reuters', title: 'South African opposition leader Julius Malema sentenced to five years', titleEn: 'South African opposition leader Julius Malema sentenced to five years', titleZh: '南非反对派领袖马莱马被判五年监禁', topic: 'crime-justice' },
+  { source: 'Bloomberg', title: 'Mark Mobius, Pioneering Emerging-Markets Investor, Dies at 89', titleEn: 'Mark Mobius, Pioneering Emerging-Markets Investor, Dies at 89', titleZh: '新兴市场投资先驱马克·莫比乌斯去世 享年89岁', topic: 'economy-markets' },
+];
+
+export const trackedStories = [
+  { title: 'Iran-U.S. Conflict', count: 14 },
+  { title: 'Israel-Lebanon Conflict', count: 8 },
+  { title: 'Hungary Government Change', count: 6 },
+  { title: 'Trump vs Powell', count: 4 },
+  { title: 'Turkey School Shootings', count: 2 },
+  { title: 'Apple Leadership Change', count: 4 },
+  { title: 'Cerebras IPO Filing', count: 3 },
+  { title: 'BBC Job Cuts', count: 3 },
+];
+
+export const sourceList = [
+  'Reuters', 'BBC', 'Financial Times', 'The New York Times',
+  'The Guardian', 'Bloomberg', 'Politico', 'Al Jazeera',
+  'The Verge', 'Washington Post', 'Associated Press', 'CNN',
+];
